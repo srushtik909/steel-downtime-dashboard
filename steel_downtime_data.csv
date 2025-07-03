@@ -1,0 +1,1001 @@
+Timestamp,Machine_ID,Shift,Downtime_Minutes,Downtime_Reason,Department,Operator_Name,Production_Loss
+2023-03-23 01:39:00,M01,C,59,Overheating,Melting,Benjamin Castro,₹2695543
+2023-03-05 07:21:00,M19,B,40,Maintenance,Melting,Haley Harmon,₹442457
+2023-05-25 18:56:00,M23,C,64,Sensor Fault,Rolling,John Cross,₹2712141
+2023-01-05 17:34:00,M25,A,90,Sensor Fault,Rolling,Jennifer Phillips,182.43 tons
+2023-03-16 10:15:00,M03,B,37,Maintenance,Casting,Sherri Allen,21.72 tons
+2023-12-01 13:01:00,M18,A,37,Unknown,Rolling,Erin Crawford,65.02 tons
+2023-09-21 08:01:00,M19,A,92,Sensor Fault,Melting,Haley Harmon,₹4545615
+2023-06-19 12:18:00,M28,A,68,Overheating,Rolling,John Joseph,82.32 tons
+2023-07-14 09:46:00,M23,C,30,Material Shortage,Rolling,Derek Berry,₹593773
+2023-12-03 14:34:00,M13,B,61,Unknown,Rolling,Erin Crawford,70.06 tons
+2023-02-10 17:35:00,M08,A,31,Mechanical Jam,Rolling,Haley Mcdaniel,73.96 tons
+2023-08-18 03:23:00,M07,C,31,Power Failure,Casting,Andrea Velasquez,24.16 tons
+2023-07-11 07:44:00,M24,C,52,Power Failure,Rolling,John Joseph,129.74 tons
+2023-12-26 08:48:00,M03,A,5,Inspection,Melting,Derek Berry,₹134431
+2023-02-16 06:13:00,M13,B,5,Operator Error,Rolling,Jamie Hawkins,₹222155
+2023-01-09 08:38:00,M22,C,28,Maintenance,Casting,Kenneth Kent,₹660996
+2023-08-02 17:17:00,M14,A,14,Power Failure,Finishing,Jamie Hawkins,₹566698
+2023-03-19 11:39:00,M28,C,54,Overheating,Rolling,Sherri Allen,67.38 tons
+2023-04-28 15:16:00,M18,C,17,Setup Change,Rolling,Kathleen Weaver,40.09 tons
+2023-08-12 22:11:00,M08,A,5,Maintenance,Rolling,David Murphy,7.36 tons
+2023-02-20 09:34:00,M25,C,88,Mechanical Jam,Melting,Nicole Short,₹1461246
+2023-11-05 02:52:00,M07,C,38,Mechanical Jam,Rolling,Sheena Huynh DVM,70.05 tons
+2023-09-29 21:59:00,M15,C,47,Power Failure,Melting,Haley Mcdaniel,78.8 tons
+2023-06-17 13:32:00,M19,A,5,Maintenance,Casting,Amy Valenzuela,11.55 tons
+2023-08-29 14:39:00,M03,C,28,Maintenance,Rolling,Ms. Teresa Ramirez,₹1090154
+2023-12-11 04:31:00,M08,B,48,Mechanical Jam,Melting,Benjamin Castro,₹1160251
+2023-10-27 08:31:00,M15,C,10,Maintenance,Rolling,Benjamin Castro,19.56 tons
+2023-03-21 13:36:00,M08,A,56,Maintenance,Rolling,Ashlee Thompson,79.81 tons
+2023-02-24 21:26:00,M15,C,26,Maintenance,Rolling,Jordan Pruitt,₹1267756
+2023-06-22 03:01:00,M06,B,36,Power Failure,Melting,Christian Gonzalez,₹597077
+2023-01-02 13:40:00,M13,B,26,Setup Change,Casting,Dustin Rodriguez,62.78 tons
+2023-12-21 09:11:00,M05,A,100,Overheating,Finishing,Justin Rivera,₹1243830
+2023-08-17 08:38:00,M02,A,44,Operator Error,Rolling,Terry Parker,106.55 tons
+2023-02-28 08:02:00,M28,A,13,Maintenance,Melting,Jason Obrien,30.98 tons
+2023-06-29 06:55:00,M19,C,69,Maintenance,Melting,Justin Rivera,₹1563180
+2023-07-09 21:12:00,M07,C,8,Sensor Fault,Melting,Christian Gonzalez,14.33 tons
+2023-11-29 22:34:00,M11,A,51,Maintenance,Rolling,David Sanders Jr.,₹659451
+2023-06-05 05:08:00,M17,B,5,Maintenance,Rolling,Haley Mcdaniel,₹123905
+2023-04-25 20:49:00,M15,C,5,Sensor Fault,Rolling,Terry Parker,10.67 tons
+2023-08-07 00:01:00,M30,C,50,Maintenance,Casting,Jamie Hawkins,35.7 tons
+2023-04-24 04:38:00,M09,B,67,Material Shortage,Casting,Ms. Teresa Ramirez,₹2955806
+2023-12-22 17:42:00,M09,A,50,Maintenance,Rolling,Kenneth Kent,58.36 tons
+2023-04-06 06:14:00,M21,B,41,Maintenance,Rolling,Ashlee Thompson,₹593473
+2023-04-19 12:54:00,M18,A,35,Inspection,Rolling,Jennifer Phillips,20.43 tons
+2023-09-23 12:44:00,M29,A,5,Setup Change,Melting,Jason Obrien,₹120735
+2023-10-23 21:57:00,M20,C,23,Maintenance,Finishing,Derek Berry,₹975909
+2023-10-28 05:22:00,M01,A,31,Sensor Fault,Rolling,Abigail Meyer,₹1381439
+2023-06-30 17:02:00,M09,A,76,Mechanical Jam,Melting,Kathleen Gibson,₹1436198
+2023-12-02 04:22:00,M12,B,55,Inspection,Casting,Haley Harmon,48.74 tons
+2023-08-28 00:47:00,M09,A,5,Unknown,Melting,Julie Morris,12.31 tons
+2023-08-30 03:15:00,M01,A,54,Inspection,Melting,Justin Rivera,₹1113407
+2023-03-20 22:28:00,M20,B,33,Overheating,Casting,Ashlee Thompson,₹1005078
+2023-10-08 11:46:00,M29,C,24,Maintenance,Melting,Ashlee Thompson,56.43 tons
+2023-05-24 11:26:00,M12,B,63,Maintenance,Rolling,Monique Gonzalez,₹2301736
+2023-04-01 17:59:00,M24,B,75,Operator Error,Rolling,Howard Carter,81.85 tons
+2023-04-03 16:30:00,M07,B,72,Material Shortage,Rolling,Keith Garcia,₹1586735
+2023-01-01 07:05:00,M10,B,19,Maintenance,Casting,Sherri Allen,₹543391
+2023-11-18 23:18:00,M22,A,35,Operator Error,Casting,Derek Berry,₹747300
+2023-09-02 01:50:00,M03,A,54,Material Shortage,Melting,Bill Hernandez,31.99 tons
+2023-12-12 23:36:00,M20,A,74,Power Failure,Casting,David Sanders Jr.,140.06 tons
+2023-12-26 23:52:00,M13,A,30,Maintenance,Rolling,Benjamin Castro,₹562609
+2023-12-05 06:35:00,M02,C,39,Maintenance,Casting,Andrea Velasquez,55.74 tons
+2023-08-20 01:11:00,M25,B,11,Material Shortage,Casting,Julie Morris,25.45 tons
+2023-11-21 16:54:00,M29,A,9,Sensor Fault,Rolling,Jamie Hawkins,₹392350
+2023-07-21 22:22:00,M25,C,69,Power Failure,Melting,John Cross,73.93 tons
+2023-07-17 20:33:00,M11,B,85,Setup Change,Melting,Jennifer Phillips,160.47 tons
+2023-06-05 19:05:00,M03,B,42,Power Failure,Rolling,Abigail Meyer,90.96 tons
+2023-10-11 14:36:00,M29,C,75,Unknown,Melting,David Sanders Jr.,38.38 tons
+2023-09-14 03:25:00,M10,B,55,Inspection,Finishing,Abigail Meyer,₹2166194
+2023-06-10 14:11:00,M16,A,25,Overheating,Rolling,Lisa Aguilar,46.46 tons
+2023-10-22 09:56:00,M24,A,55,Inspection,Finishing,Oscar Singh,₹2545243
+2023-01-20 17:38:00,M03,C,91,Power Failure,Casting,Keith Garcia,114.5 tons
+2023-06-04 03:01:00,M15,B,43,Overheating,Casting,Kenneth Kent,₹1860909
+2023-07-03 16:45:00,M27,A,91,Power Failure,Casting,Amy Valenzuela,₹2183855
+2023-02-19 23:11:00,M25,C,5,Maintenance,Melting,Jason Obrien,2.7 tons
+2023-04-21 23:04:00,M08,A,69,Power Failure,Melting,Ms. Teresa Ramirez,69.86 tons
+2023-09-26 14:54:00,M06,C,47,Material Shortage,Casting,Kelly Klein,₹777879
+2023-08-15 11:47:00,M04,C,36,Maintenance,Rolling,Lisa Aguilar,69.48 tons
+2023-02-25 08:08:00,M19,C,47,Inspection,Melting,Sheena Huynh DVM,₹1598773
+2023-03-30 03:35:00,M26,C,5,Mechanical Jam,Rolling,Ashlee Thompson,₹63791
+2023-09-06 11:26:00,M01,B,38,Inspection,Melting,John Joseph,₹1639635
+2023-04-22 09:42:00,M14,A,55,Sensor Fault,Finishing,Kenneth Kent,₹2573158
+2023-12-19 01:43:00,M15,B,89,Inspection,Rolling,Howard Carter,₹3847402
+2023-03-05 02:32:00,M09,B,29,Maintenance,Rolling,Oscar Singh,₹680220
+2023-12-26 22:37:00,M28,B,20,Maintenance,Melting,Jamie Hawkins,45.21 tons
+2023-07-21 04:08:00,M18,A,29,Operator Error,Melting,Jason Obrien,₹856750
+2023-06-24 23:57:00,M23,B,72,Material Shortage,Rolling,Marcus Banks,67.91 tons
+2023-06-27 04:03:00,M10,C,54,Operator Error,Rolling,Terry Parker,134.64 tons
+2023-08-29 20:59:00,M12,C,29,Power Failure,Rolling,Haley Harmon,25.67 tons
+2023-03-29 01:22:00,M24,C,60,Unknown,Rolling,Bill Hernandez,88.1 tons
+2023-07-26 01:45:00,M04,A,47,Overheating,Rolling,Sheena Huynh DVM,73.71 tons
+2023-07-19 17:56:00,M02,A,74,Operator Error,Rolling,Duane James,₹2968264
+2023-03-16 16:50:00,M28,A,23,Operator Error,Rolling,John Cross,55.91 tons
+2023-07-03 20:22:00,M28,B,35,Maintenance,Melting,Kathleen Weaver,61.56 tons
+2023-02-09 00:53:00,M05,A,33,Mechanical Jam,Finishing,David Murphy,₹486356
+2023-10-31 01:10:00,M20,C,5,Mechanical Jam,Melting,Terry Parker,11.59 tons
+2023-08-05 12:37:00,M28,C,53,Unknown,Rolling,Oscar Singh,128.27 tons
+2023-03-14 06:13:00,M25,A,52,Material Shortage,Melting,David Murphy,44.08 tons
+2023-02-24 15:51:00,M06,A,45,Power Failure,Rolling,Nicole Short,43.33 tons
+2023-07-25 20:51:00,M23,B,37,Maintenance,Melting,Jamie Hawkins,₹1295085
+2023-05-25 01:08:00,M14,A,5,Operator Error,Rolling,Kenneth Kent,₹64281
+2023-05-01 19:42:00,M26,B,32,Operator Error,Casting,Dustin Rodriguez,46.0 tons
+2023-08-10 10:22:00,M23,B,34,Unknown,Rolling,Kathleen Weaver,57.67 tons
+2023-11-11 14:14:00,M24,B,20,Material Shortage,Melting,Haley Harmon,₹868766
+2023-01-16 02:33:00,M25,C,40,Inspection,Rolling,Keith Garcia,72.12 tons
+2023-07-22 13:08:00,M06,C,57,Power Failure,Casting,David Murphy,75.05 tons
+2023-08-22 18:53:00,M22,A,101,Inspection,Rolling,Kathleen Weaver,241.43 tons
+2023-01-27 17:19:00,M15,A,50,Overheating,Rolling,Christian Gonzalez,₹2149854
+2023-01-01 20:06:00,M22,C,52,Power Failure,Melting,Terry Parker,104.67 tons
+2023-11-18 21:13:00,M25,A,42,Maintenance,Rolling,Dustin Rodriguez,79.65 tons
+2023-03-30 10:04:00,M01,C,5,Material Shortage,Melting,Derek Berry,2.64 tons
+2023-10-25 02:09:00,M03,A,44,Unknown,Finishing,Andrea Velasquez,₹1579969
+2023-04-23 02:50:00,M16,C,46,Overheating,Casting,Abigail Meyer,₹2263650
+2023-06-27 11:30:00,M15,C,118,Maintenance,Melting,Sherri Allen,₹5330419
+2023-02-20 20:01:00,M09,B,39,Overheating,Casting,Kenneth Kent,₹831228
+2023-08-06 09:38:00,M27,C,54,Operator Error,Rolling,Jennifer Phillips,79.31 tons
+2023-08-31 01:48:00,M18,C,43,Overheating,Finishing,Bill Hernandez,₹840745
+2023-10-06 20:54:00,M08,B,9,Maintenance,Casting,Lisa Aguilar,16.45 tons
+2023-04-21 18:13:00,M16,A,79,Maintenance,Finishing,Monique Gonzalez,₹3552441
+2023-11-17 14:54:00,M04,C,67,Setup Change,Melting,Jennifer Phillips,121.24 tons
+2023-04-23 09:39:00,M03,B,68,Mechanical Jam,Melting,Oscar Singh,₹2447555
+2023-08-28 06:05:00,M28,C,17,Inspection,Rolling,Howard Carter,₹773458
+2023-12-22 07:30:00,M28,C,87,Maintenance,Melting,Dustin Rodriguez,₹3468746
+2023-11-13 00:12:00,M04,C,5,Sensor Fault,Melting,Derek Berry,₹230684
+2023-02-03 11:45:00,M11,A,62,Overheating,Rolling,Jennifer Phillips,82.09 tons
+2023-05-12 02:43:00,M06,A,110,Maintenance,Casting,Oscar Singh,₹3289735
+2023-04-15 05:09:00,M08,B,15,Material Shortage,Rolling,Christopher Sanders,₹429151
+2023-07-29 10:43:00,M22,C,28,Maintenance,Rolling,Mary King,₹615052
+2023-11-05 23:20:00,M23,B,47,Power Failure,Rolling,Lisa Aguilar,₹670508
+2023-10-05 16:49:00,M19,B,29,Operator Error,Finishing,Dustin Rodriguez,62.64 tons
+2023-10-16 05:12:00,M09,A,5,Operator Error,Rolling,Amy Valenzuela,₹199034
+2023-07-28 09:36:00,M25,A,47,Material Shortage,Rolling,Bill Hernandez,₹1744197
+2023-04-10 14:23:00,M21,A,13,Setup Change,Rolling,Sheena Huynh DVM,₹147349
+2023-09-23 16:24:00,M24,A,59,Maintenance,Melting,Abigail Meyer,45.09 tons
+2023-09-24 09:49:00,M17,C,17,Setup Change,Casting,Jamie Hawkins,₹812047
+2023-08-03 21:58:00,M24,B,91,Mechanical Jam,Rolling,Haley Mcdaniel,221.4 tons
+2023-10-17 09:16:00,M28,C,21,Overheating,Casting,Christopher Sanders,15.69 tons
+2023-09-26 09:30:00,M22,C,35,Material Shortage,Rolling,John Joseph,33.87 tons
+2023-01-19 05:20:00,M20,C,69,Overheating,Rolling,Haley Mcdaniel,₹1971378
+2023-08-09 01:09:00,M21,B,8,Maintenance,Melting,Kathleen Gibson,11.88 tons
+2023-03-12 18:33:00,M08,C,51,Maintenance,Rolling,Jordan Pruitt,101.21 tons
+2023-04-23 12:29:00,M29,B,84,Material Shortage,Casting,Oscar Singh,201.86 tons
+2023-01-24 19:45:00,M23,B,5,Maintenance,Rolling,Jason Obrien,₹69870
+2023-09-25 11:38:00,M18,C,50,Overheating,Rolling,Bill Hernandez,₹2398021
+2023-11-28 02:45:00,M03,C,52,Maintenance,Rolling,Marcus Banks,60.68 tons
+2023-04-02 16:40:00,M26,C,68,Maintenance,Casting,Erin Crawford,63.37 tons
+2023-06-19 15:56:00,M11,A,7,Mechanical Jam,Rolling,Kenneth Kent,₹110512
+2023-04-05 15:46:00,M18,B,5,Mechanical Jam,Melting,Marcus Banks,6.08 tons
+2023-06-23 06:09:00,M19,B,60,Maintenance,Melting,Duane James,₹1862605
+2023-02-16 06:45:00,M16,B,53,Mechanical Jam,Rolling,Benjamin Castro,49.98 tons
+2023-02-01 13:51:00,M24,C,52,Operator Error,Rolling,Marcus Banks,75.81 tons
+2023-10-20 10:46:00,M14,C,55,Maintenance,Casting,John Cross,36.39 tons
+2023-04-19 00:19:00,M03,A,24,Overheating,Rolling,Erin Crawford,₹605668
+2023-08-03 17:42:00,M15,C,51,Material Shortage,Melting,Kelly Klein,₹1837869
+2023-06-06 13:48:00,M14,B,53,Setup Change,Rolling,Andrea Velasquez,103.84 tons
+2023-08-16 14:10:00,M14,B,23,Material Shortage,Rolling,Jennifer Phillips,₹666326
+2023-03-08 10:16:00,M27,A,100,Maintenance,Melting,John Joseph,₹3225482
+2023-08-29 00:58:00,M22,A,59,Power Failure,Casting,Ashlee Thompson,₹2291703
+2023-07-29 10:41:00,M20,B,9,Overheating,Rolling,Ms. Teresa Ramirez,13.18 tons
+2023-03-20 19:15:00,M12,C,64,Overheating,Casting,David Sanders Jr.,86.93 tons
+2023-01-20 02:49:00,M20,C,15,Inspection,Melting,Keith Garcia,30.37 tons
+2023-09-05 10:51:00,M12,A,68,Maintenance,Melting,Christian Gonzalez,134.77 tons
+2023-01-23 07:46:00,M03,C,79,Operator Error,Rolling,Andrea Velasquez,97.97 tons
+2023-08-25 05:00:00,M25,C,20,Operator Error,Casting,Jennifer Phillips,34.71 tons
+2023-03-01 09:44:00,M09,B,73,Material Shortage,Rolling,John Cross,67.97 tons
+2023-03-24 21:06:00,M12,B,57,Maintenance,Rolling,Justin Rivera,104.55 tons
+2023-02-03 01:43:00,M08,B,69,Unknown,Melting,Ms. Teresa Ramirez,63.65 tons
+2023-04-10 22:21:00,M25,B,101,Overheating,Melting,Kathleen Weaver,₹1719806
+2023-10-04 20:36:00,M18,C,37,Maintenance,Rolling,Mary King,82.27 tons
+2023-01-31 19:17:00,M14,A,22,Power Failure,Melting,Howard Carter,₹724591
+2023-11-01 03:43:00,M10,A,18,Power Failure,Finishing,Derek Berry,₹625050
+2023-09-21 11:50:00,M03,B,20,Inspection,Melting,Justin Rivera,13.15 tons
+2023-08-14 22:26:00,M24,B,42,Maintenance,Casting,Haley Mcdaniel,₹611564
+2023-05-22 04:42:00,M29,B,55,Overheating,Finishing,Jennifer Phillips,43.61 tons
+2023-05-24 15:34:00,M06,C,53,Maintenance,Casting,Haley Mcdaniel,108.42 tons
+2023-12-26 19:19:00,M15,C,69,Mechanical Jam,Rolling,David Sanders Jr.,₹3412828
+2023-08-24 08:28:00,M28,C,45,Overheating,Rolling,Nicole Short,49.75 tons
+2023-07-20 00:16:00,M19,A,88,Overheating,Melting,Andrea Velasquez,54.01 tons
+2023-07-29 01:02:00,M03,C,37,Inspection,Casting,Oscar Singh,₹939034
+2023-01-30 20:55:00,M15,C,126,Material Shortage,Rolling,Nicole Short,₹6086920
+2023-11-25 01:27:00,M04,B,63,Unknown,Melting,Keith Garcia,120.66 tons
+2023-11-16 23:27:00,M17,C,19,Material Shortage,Rolling,Dustin Rodriguez,38.93 tons
+2023-02-08 03:09:00,M26,C,12,Material Shortage,Melting,Benjamin Castro,₹305550
+2023-07-03 11:56:00,M24,C,59,Unknown,Rolling,Jennifer Phillips,98.26 tons
+2023-04-13 23:38:00,M30,B,38,Overheating,Rolling,Christian Gonzalez,72.87 tons
+2023-03-03 16:34:00,M10,C,66,Overheating,Casting,Duane James,₹2848451
+2023-03-10 01:12:00,M21,C,59,Power Failure,Rolling,John Joseph,141.74 tons
+2023-09-06 20:12:00,M25,B,42,Maintenance,Finishing,Jennifer Phillips,91.93 tons
+2023-03-15 15:33:00,M17,C,19,Inspection,Casting,Kathleen Gibson,₹856058
+2023-04-06 10:14:00,M20,B,5,Maintenance,Melting,Oscar Singh,₹83107
+2023-11-15 16:53:00,M02,B,31,Overheating,Casting,John Cross,₹1242965
+2023-11-23 21:35:00,M08,C,70,Maintenance,Finishing,Nicole Short,₹1243245
+2023-11-17 19:59:00,M15,B,51,Mechanical Jam,Rolling,Abigail Meyer,₹2176458
+2023-04-11 18:41:00,M28,B,7,Maintenance,Rolling,John Joseph,₹98725
+2023-04-01 18:54:00,M10,A,50,Mechanical Jam,Melting,Julie Morris,68.75 tons
+2023-06-11 16:23:00,M27,B,56,Setup Change,Finishing,Abigail Meyer,84.22 tons
+2023-06-21 16:31:00,M13,A,18,Overheating,Melting,Benjamin Castro,₹647971
+2023-04-17 08:23:00,M05,A,49,Overheating,Casting,Duane James,₹1409455
+2023-01-04 19:46:00,M29,A,46,Maintenance,Melting,Jennifer Phillips,₹1798112
+2023-11-05 04:54:00,M04,B,10,Maintenance,Melting,Jason Obrien,20.88 tons
+2023-11-29 20:38:00,M03,A,55,Inspection,Rolling,Jordan Pruitt,84.19 tons
+2023-06-26 04:10:00,M23,A,61,Overheating,Melting,Mary King,81.32 tons
+2023-03-04 08:12:00,M17,B,77,Maintenance,Rolling,Julie Morris,₹2333477
+2023-01-15 19:22:00,M13,B,76,Maintenance,Rolling,John Joseph,40.47 tons
+2023-02-19 04:41:00,M12,A,5,Sensor Fault,Rolling,Justin Rivera,₹116503
+2023-02-02 06:49:00,M12,C,16,Overheating,Rolling,Andrea Velasquez,₹466259
+2023-05-13 17:32:00,M26,A,60,Maintenance,Casting,Andrea Velasquez,54.19 tons
+2023-05-26 05:59:00,M29,A,60,Overheating,Rolling,Christian Gonzalez,₹1903273
+2023-07-04 10:58:00,M02,C,60,Maintenance,Rolling,Amy Valenzuela,₹1396619
+2023-04-01 15:21:00,M26,B,160,Power Failure,Rolling,John Cross,₹4074526
+2023-05-17 00:52:00,M16,C,62,Power Failure,Finishing,Terry Parker,41.24 tons
+2023-11-06 02:40:00,M03,B,79,Material Shortage,Casting,Jordan Pruitt,55.71 tons
+2023-08-27 18:48:00,M22,B,73,Overheating,Rolling,Ashlee Thompson,101.31 tons
+2023-11-22 14:09:00,M02,C,64,Inspection,Rolling,Ashlee Thompson,157.44 tons
+2023-02-11 18:24:00,M03,C,35,Material Shortage,Rolling,Derek Berry,₹549891
+2023-11-16 01:37:00,M02,A,67,Maintenance,Casting,John Joseph,160.73 tons
+2023-01-24 13:58:00,M20,A,21,Material Shortage,Finishing,John Joseph,13.73 tons
+2023-04-11 06:23:00,M17,B,37,Overheating,Rolling,Jason Obrien,₹408351
+2023-05-16 11:25:00,M16,C,30,Overheating,Rolling,Jamie Hawkins,₹1144845
+2023-06-06 05:53:00,M20,B,47,Sensor Fault,Finishing,Bill Hernandez,103.67 tons
+2023-11-26 04:01:00,M06,C,114,Power Failure,Melting,Howard Carter,₹4375504
+2023-07-31 10:26:00,M29,B,5,Inspection,Casting,Keith Garcia,₹151751
+2023-03-30 08:57:00,M07,A,65,Maintenance,Rolling,John Joseph,₹1609169
+2023-04-05 11:54:00,M20,A,5,Maintenance,Rolling,Nicole Short,₹203832
+2023-02-23 16:53:00,M05,B,30,Material Shortage,Rolling,Terry Parker,67.68 tons
+2023-05-13 12:02:00,M25,A,77,Power Failure,Finishing,Amy Valenzuela,₹2365754
+2023-08-10 10:57:00,M06,A,46,Overheating,Casting,Mary King,₹1414771
+2023-07-26 20:06:00,M28,A,12,Overheating,Rolling,Erin Crawford,21.0 tons
+2023-03-10 00:46:00,M17,C,23,Maintenance,Finishing,Jennifer Phillips,40.23 tons
+2023-09-03 20:19:00,M27,C,65,Maintenance,Casting,David Murphy,115.89 tons
+2023-07-12 17:11:00,M21,A,23,Mechanical Jam,Rolling,Marcus Banks,40.35 tons
+2023-07-30 22:22:00,M21,B,51,Power Failure,Casting,Christian Gonzalez,32.94 tons
+2023-02-13 15:03:00,M06,B,46,Power Failure,Rolling,Monique Gonzalez,₹1035151
+2023-08-21 12:27:00,M24,B,25,Unknown,Melting,John Joseph,₹356183
+2023-06-26 00:40:00,M15,A,109,Overheating,Melting,Benjamin Castro,260.59 tons
+2023-11-01 11:26:00,M08,A,64,Mechanical Jam,Finishing,Howard Carter,52.4 tons
+2023-12-06 22:11:00,M16,B,5,Power Failure,Melting,Christian Gonzalez,₹243337
+2023-06-06 15:55:00,M19,B,50,Maintenance,Melting,Sherri Allen,₹1808520
+2023-12-09 16:06:00,M10,C,25,Maintenance,Melting,Duane James,₹977508
+2023-10-21 15:22:00,M12,A,70,Power Failure,Rolling,Bill Hernandez,75.4 tons
+2023-10-09 07:56:00,M17,B,21,Mechanical Jam,Melting,Oscar Singh,₹309801
+2023-03-12 09:37:00,M13,B,41,Mechanical Jam,Rolling,John Joseph,₹736454
+2023-10-20 06:44:00,M17,A,60,Maintenance,Melting,Monique Gonzalez,₹1846398
+2023-04-19 10:55:00,M20,C,70,Maintenance,Finishing,Howard Carter,173.69 tons
+2023-08-06 21:29:00,M19,B,8,Operator Error,Rolling,Kathleen Weaver,₹175932
+2023-01-13 02:45:00,M12,B,34,Material Shortage,Finishing,Justin Rivera,78.12 tons
+2023-01-20 09:41:00,M20,B,30,Overheating,Rolling,Justin Rivera,₹1165680
+2023-12-16 20:27:00,M06,C,25,Material Shortage,Rolling,Lisa Aguilar,46.54 tons
+2023-01-23 23:44:00,M19,C,97,Maintenance,Melting,Howard Carter,128.61 tons
+2023-05-29 11:15:00,M14,C,57,Mechanical Jam,Finishing,Amy Valenzuela,₹1752597
+2023-08-25 16:39:00,M22,B,7,Operator Error,Rolling,Keith Garcia,10.96 tons
+2023-09-15 23:36:00,M22,C,72,Sensor Fault,Casting,Jamie Hawkins,₹1273720
+2023-06-29 12:14:00,M09,C,108,Overheating,Finishing,Sheena Huynh DVM,₹4125172
+2023-12-23 01:56:00,M11,B,75,Overheating,Finishing,Kenneth Kent,123.52 tons
+2023-10-04 11:38:00,M29,B,5,Mechanical Jam,Finishing,Jennifer Phillips,5.38 tons
+2023-02-27 13:08:00,M12,B,30,Material Shortage,Casting,Ms. Teresa Ramirez,47.31 tons
+2023-07-17 18:55:00,M05,A,83,Material Shortage,Rolling,Jason Obrien,191.76 tons
+2023-06-14 07:53:00,M21,A,23,Maintenance,Rolling,Nicole Short,46.96 tons
+2023-01-04 18:33:00,M18,A,58,Power Failure,Finishing,Nicole Short,52.14 tons
+2023-07-29 03:58:00,M11,B,68,Material Shortage,Finishing,David Murphy,₹1311638
+2023-01-28 03:50:00,M30,A,17,Power Failure,Casting,Kathleen Gibson,₹439956
+2023-12-27 17:27:00,M06,C,43,Unknown,Finishing,Kathleen Gibson,70.34 tons
+2023-03-20 03:12:00,M30,B,5,Overheating,Finishing,Jordan Pruitt,₹227851
+2023-04-08 17:18:00,M28,C,14,Power Failure,Melting,Kelly Klein,27.47 tons
+2023-07-07 08:01:00,M23,A,37,Maintenance,Rolling,Dustin Rodriguez,₹1490778
+2023-05-08 18:59:00,M20,C,7,Setup Change,Casting,Julie Morris,9.11 tons
+2023-03-11 10:58:00,M06,A,93,Power Failure,Finishing,Christopher Sanders,90.31 tons
+2023-07-14 10:03:00,M11,B,5,Operator Error,Rolling,Jamie Hawkins,₹188553
+2023-02-15 05:42:00,M22,A,31,Power Failure,Melting,Julie Morris,₹1410873
+2023-08-15 10:44:00,M23,A,48,Material Shortage,Finishing,John Joseph,₹900726
+2023-04-08 06:17:00,M16,A,88,Power Failure,Finishing,John Joseph,140.67 tons
+2023-12-09 20:19:00,M25,C,5,Mechanical Jam,Casting,Jason Obrien,₹169162
+2023-03-01 14:47:00,M17,B,79,Operator Error,Rolling,David Sanders Jr.,170.45 tons
+2023-05-28 04:56:00,M19,C,45,Maintenance,Rolling,Terry Parker,83.73 tons
+2023-12-22 22:53:00,M03,C,15,Power Failure,Melting,Duane James,₹424079
+2023-02-12 01:01:00,M18,B,58,Material Shortage,Rolling,Marcus Banks,123.71 tons
+2023-06-08 16:06:00,M19,A,50,Maintenance,Rolling,Haley Mcdaniel,₹620511
+2023-02-20 06:11:00,M30,B,26,Maintenance,Rolling,Duane James,₹1277466
+2023-11-03 02:21:00,M12,B,47,Power Failure,Finishing,Lisa Aguilar,87.68 tons
+2023-04-07 20:09:00,M21,B,33,Maintenance,Finishing,Christian Gonzalez,₹1290772
+2023-06-12 03:47:00,M27,A,48,Mechanical Jam,Finishing,Andrea Velasquez,₹1525335
+2023-10-04 04:20:00,M27,A,64,Maintenance,Rolling,Kenneth Kent,144.03 tons
+2023-03-24 04:06:00,M02,C,92,Power Failure,Casting,Marcus Banks,58.38 tons
+2023-01-25 10:47:00,M15,C,7,Material Shortage,Casting,Jason Obrien,₹182634
+2023-06-20 15:22:00,M18,A,108,Mechanical Jam,Casting,Duane James,₹2329618
+2023-08-21 05:14:00,M19,C,5,Mechanical Jam,Casting,Jason Obrien,3.93 tons
+2023-06-10 23:00:00,M14,B,40,Overheating,Rolling,Justin Rivera,₹1858524
+2023-11-08 01:52:00,M18,B,62,Maintenance,Rolling,Lisa Aguilar,₹1410461
+2023-10-31 03:48:00,M14,A,53,Overheating,Melting,Jordan Pruitt,116.53 tons
+2023-08-07 23:44:00,M28,C,26,Maintenance,Rolling,Amy Valenzuela,₹1266497
+2023-04-08 15:26:00,M13,A,38,Overheating,Rolling,David Murphy,₹1667642
+2023-03-09 07:55:00,M18,C,30,Inspection,Melting,Lisa Aguilar,₹1023506
+2023-02-22 23:59:00,M07,C,27,Sensor Fault,Rolling,Nicole Short,62.48 tons
+2023-08-09 18:35:00,M30,A,70,Maintenance,Melting,Kelly Klein,₹2812126
+2023-06-26 15:37:00,M23,C,55,Sensor Fault,Rolling,Jason Obrien,₹2256130
+2023-10-05 04:32:00,M15,C,24,Material Shortage,Rolling,John Joseph,₹717386
+2023-03-13 19:18:00,M26,C,71,Power Failure,Casting,Ms. Teresa Ramirez,94.28 tons
+2023-06-11 03:02:00,M24,A,54,Maintenance,Rolling,Justin Rivera,₹1441968
+2023-04-21 23:34:00,M07,B,69,Maintenance,Rolling,Jason Obrien,124.84 tons
+2023-09-03 19:21:00,M09,B,63,Unknown,Rolling,Kathleen Weaver,123.83 tons
+2023-09-14 10:43:00,M06,A,20,Sensor Fault,Rolling,Jordan Pruitt,₹965789
+2023-01-25 15:06:00,M27,A,28,Unknown,Rolling,Christopher Sanders,61.18 tons
+2023-06-18 12:35:00,M03,C,67,Maintenance,Melting,Andrea Velasquez,116.29 tons
+2023-12-18 20:36:00,M22,B,63,Maintenance,Rolling,Abigail Meyer,98.21 tons
+2023-07-20 01:26:00,M18,B,44,Maintenance,Casting,Ashlee Thompson,₹2041201
+2023-03-19 22:14:00,M30,A,48,Operator Error,Melting,Oscar Singh,₹2045211
+2023-07-14 15:50:00,M26,B,83,Maintenance,Finishing,Andrea Velasquez,₹4117573
+2023-06-14 11:08:00,M10,C,27,Inspection,Melting,Kathleen Gibson,33.98 tons
+2023-12-13 14:47:00,M02,C,61,Maintenance,Melting,Kathleen Weaver,₹2183573
+2023-08-30 05:22:00,M19,A,38,Setup Change,Finishing,Haley Harmon,84.98 tons
+2023-12-13 05:58:00,M09,A,38,Setup Change,Rolling,Kenneth Kent,₹1236534
+2023-01-24 23:00:00,M06,B,77,Maintenance,Melting,Jennifer Phillips,₹2965151
+2023-10-18 00:43:00,M30,A,69,Overheating,Rolling,David Sanders Jr.,₹1764072
+2023-08-30 13:23:00,M13,C,69,Maintenance,Finishing,David Murphy,₹3379132
+2023-02-09 02:24:00,M04,B,84,Maintenance,Melting,Sherri Allen,₹4048324
+2023-10-16 20:53:00,M25,B,45,Maintenance,Melting,John Cross,54.52 tons
+2023-10-01 09:03:00,M14,A,65,Material Shortage,Rolling,David Murphy,₹1417986
+2023-06-29 11:01:00,M23,A,35,Maintenance,Melting,Jennifer Phillips,₹793349
+2023-03-19 14:06:00,M03,A,54,Unknown,Rolling,Kenneth Kent,36.43 tons
+2023-11-10 19:54:00,M15,C,41,Operator Error,Rolling,Marcus Banks,65.95 tons
+2023-08-25 05:49:00,M28,B,47,Maintenance,Rolling,David Murphy,₹1521928
+2023-06-26 18:13:00,M19,C,62,Maintenance,Rolling,Duane James,64.28 tons
+2023-04-17 06:23:00,M03,A,20,Power Failure,Rolling,Nicole Short,₹488899
+2023-06-29 13:28:00,M24,C,107,Power Failure,Rolling,Andrea Velasquez,118.7 tons
+2023-10-16 03:13:00,M11,C,14,Overheating,Casting,John Cross,29.83 tons
+2023-04-10 02:56:00,M10,B,8,Material Shortage,Rolling,Nicole Short,19.43 tons
+2023-08-21 09:20:00,M10,C,79,Sensor Fault,Rolling,David Sanders Jr.,₹1819800
+2023-07-24 02:36:00,M27,B,68,Overheating,Finishing,Bill Hernandez,₹2164111
+2023-01-20 14:23:00,M24,B,63,Unknown,Melting,Dustin Rodriguez,₹804279
+2023-10-25 22:16:00,M22,B,63,Maintenance,Rolling,Jamie Hawkins,₹2432395
+2023-10-02 12:23:00,M03,B,44,Unknown,Rolling,Christian Gonzalez,₹2065352
+2023-11-01 14:20:00,M18,A,18,Mechanical Jam,Rolling,Jordan Pruitt,₹838368
+2023-03-21 15:22:00,M25,A,47,Material Shortage,Rolling,Oscar Singh,115.96 tons
+2023-10-18 23:49:00,M25,B,24,Unknown,Rolling,Christopher Sanders,22.66 tons
+2023-06-10 22:48:00,M15,B,74,Overheating,Casting,Justin Rivera,₹1186205
+2023-01-18 21:15:00,M16,A,40,Overheating,Finishing,David Murphy,95.25 tons
+2023-04-14 03:57:00,M12,B,20,Overheating,Casting,Terry Parker,29.05 tons
+2023-11-16 01:30:00,M24,C,35,Power Failure,Melting,Kathleen Gibson,₹511119
+2023-09-07 19:43:00,M21,A,57,Material Shortage,Melting,Jason Obrien,₹1828355
+2023-08-30 00:27:00,M18,B,28,Unknown,Melting,Christian Gonzalez,₹488753
+2023-11-11 16:05:00,M13,A,20,Sensor Fault,Casting,John Cross,₹511068
+2023-06-06 09:50:00,M07,B,52,Mechanical Jam,Casting,Haley Mcdaniel,₹2182964
+2023-05-17 03:21:00,M12,B,52,Maintenance,Melting,Kathleen Weaver,₹1849345
+2023-10-10 23:57:00,M20,B,29,Operator Error,Rolling,Andrea Velasquez,₹1233936
+2023-08-05 14:13:00,M30,C,30,Operator Error,Rolling,Howard Carter,33.32 tons
+2023-05-14 06:56:00,M12,C,51,Maintenance,Rolling,Sherri Allen,64.64 tons
+2023-05-16 06:16:00,M16,C,5,Operator Error,Finishing,Keith Garcia,₹147928
+2023-04-13 03:51:00,M06,B,5,Inspection,Rolling,Mary King,₹146921
+2023-05-23 02:07:00,M27,B,23,Unknown,Rolling,Kathleen Weaver,34.12 tons
+2023-11-20 04:52:00,M16,A,38,Maintenance,Melting,Haley Harmon,39.89 tons
+2023-07-30 04:52:00,M06,B,54,Operator Error,Casting,Kathleen Weaver,₹784535
+2023-03-25 03:54:00,M09,C,89,Inspection,Rolling,Kathleen Gibson,₹2461265
+2023-06-09 03:17:00,M14,A,70,Sensor Fault,Rolling,Jason Obrien,174.9 tons
+2023-11-24 11:38:00,M09,B,40,Inspection,Melting,Kelly Klein,₹779113
+2023-09-13 07:43:00,M28,C,44,Material Shortage,Rolling,Oscar Singh,40.18 tons
+2023-05-31 16:35:00,M26,A,14,Operator Error,Rolling,Sherri Allen,₹321246
+2023-08-02 02:09:00,M10,C,44,Overheating,Casting,Benjamin Castro,88.01 tons
+2023-10-27 17:09:00,M30,A,36,Unknown,Casting,Duane James,₹551074
+2023-04-17 11:47:00,M23,B,54,Inspection,Casting,Christian Gonzalez,89.36 tons
+2023-07-15 16:10:00,M21,B,20,Overheating,Melting,David Murphy,39.99 tons
+2023-09-26 17:59:00,M15,B,60,Overheating,Melting,David Murphy,₹1700278
+2023-09-18 20:23:00,M28,A,90,Mechanical Jam,Rolling,Ashlee Thompson,₹2680973
+2023-08-24 02:28:00,M27,B,41,Overheating,Rolling,David Sanders Jr.,₹1702817
+2023-02-05 06:00:00,M02,A,57,Material Shortage,Casting,Marcus Banks,126.27 tons
+2023-11-18 08:01:00,M15,A,65,Unknown,Rolling,Duane James,₹1434850
+2023-07-19 12:50:00,M03,C,32,Overheating,Melting,Derek Berry,56.04 tons
+2023-06-20 11:57:00,M14,C,51,Maintenance,Melting,Ms. Teresa Ramirez,39.04 tons
+2023-06-14 16:58:00,M17,C,45,Power Failure,Melting,Monique Gonzalez,₹2228678
+2023-11-04 12:28:00,M23,A,47,Power Failure,Melting,David Murphy,₹662563
+2023-08-17 04:12:00,M12,B,21,Maintenance,Casting,Duane James,₹778795
+2023-02-19 19:34:00,M17,C,45,Maintenance,Rolling,John Cross,41.67 tons
+2023-04-21 05:27:00,M30,B,59,Material Shortage,Rolling,Ms. Teresa Ramirez,41.35 tons
+2023-03-31 16:19:00,M19,C,88,Overheating,Finishing,Howard Carter,₹1752208
+2023-03-03 08:21:00,M08,C,73,Material Shortage,Casting,Dustin Rodriguez,₹2746190
+2023-08-08 15:42:00,M07,C,109,Material Shortage,Melting,Christian Gonzalez,66.4 tons
+2023-06-24 06:47:00,M16,B,21,Maintenance,Rolling,Sherri Allen,47.83 tons
+2023-01-09 18:53:00,M12,B,71,Maintenance,Casting,David Sanders Jr.,113.08 tons
+2023-05-06 19:22:00,M25,B,50,Unknown,Casting,Marcus Banks,₹527586
+2023-06-07 02:22:00,M02,A,110,Unknown,Rolling,Dustin Rodriguez,₹3304615
+2023-10-30 12:12:00,M14,C,20,Power Failure,Rolling,Jordan Pruitt,₹421974
+2023-08-14 16:00:00,M03,C,19,Setup Change,Finishing,Jennifer Phillips,₹486955
+2023-02-18 03:26:00,M10,C,27,Power Failure,Finishing,Jason Obrien,18.16 tons
+2023-11-13 09:09:00,M04,B,5,Material Shortage,Melting,Keith Garcia,9.58 tons
+2023-01-09 06:21:00,M06,B,29,Unknown,Rolling,Jamie Hawkins,21.86 tons
+2023-07-15 16:59:00,M24,A,22,Mechanical Jam,Melting,Ashlee Thompson,13.81 tons
+2023-02-26 02:53:00,M16,B,49,Operator Error,Melting,David Sanders Jr.,39.92 tons
+2023-03-16 22:23:00,M29,C,55,Material Shortage,Melting,Julie Morris,121.96 tons
+2023-01-09 22:44:00,M08,A,101,Power Failure,Rolling,Jennifer Phillips,244.49 tons
+2023-01-26 18:01:00,M18,C,73,Sensor Fault,Rolling,Howard Carter,170.21 tons
+2023-08-21 23:16:00,M09,A,27,Operator Error,Melting,Amy Valenzuela,56.93 tons
+2023-02-03 10:39:00,M13,A,18,Inspection,Casting,Sheena Huynh DVM,28.91 tons
+2023-01-06 19:16:00,M12,A,59,Overheating,Casting,Oscar Singh,72.96 tons
+2023-12-26 06:06:00,M25,A,5,Sensor Fault,Rolling,Jason Obrien,11.82 tons
+2023-01-18 09:51:00,M08,C,99,Overheating,Casting,Christopher Sanders,₹995789
+2023-10-01 23:52:00,M28,C,80,Sensor Fault,Melting,Terry Parker,₹2143410
+2023-02-13 14:44:00,M05,C,30,Overheating,Melting,Haley Harmon,₹923711
+2023-09-29 05:46:00,M15,C,5,Maintenance,Melting,Duane James,₹128870
+2023-02-15 08:28:00,M14,C,85,Unknown,Melting,Jamie Hawkins,₹3998542
+2023-10-14 03:20:00,M23,C,41,Overheating,Rolling,Haley Harmon,37.12 tons
+2023-03-21 08:26:00,M05,A,82,Maintenance,Rolling,Abigail Meyer,99.76 tons
+2023-06-01 04:42:00,M15,B,5,Power Failure,Casting,David Murphy,9.36 tons
+2023-01-30 08:48:00,M07,B,27,Maintenance,Casting,Mary King,16.14 tons
+2023-08-06 14:37:00,M09,A,45,Maintenance,Rolling,John Cross,₹1440217
+2023-03-10 23:26:00,M15,A,46,Mechanical Jam,Melting,Christopher Sanders,94.85 tons
+2023-06-11 20:46:00,M05,A,31,Inspection,Rolling,David Murphy,₹630937
+2023-02-24 14:29:00,M01,A,63,Maintenance,Rolling,Duane James,138.26 tons
+2023-08-30 10:15:00,M04,A,12,Unknown,Melting,David Sanders Jr.,23.39 tons
+2023-12-28 06:26:00,M01,B,40,Sensor Fault,Melting,Ms. Teresa Ramirez,₹839970
+2023-11-21 18:36:00,M29,A,48,Maintenance,Rolling,Jason Obrien,₹1437871
+2023-12-15 19:40:00,M02,A,60,Overheating,Melting,Bill Hernandez,₹2513275
+2023-07-01 10:10:00,M21,C,66,Mechanical Jam,Finishing,Mary King,136.15 tons
+2023-09-08 12:25:00,M30,C,11,Operator Error,Rolling,Keith Garcia,18.64 tons
+2023-01-22 08:06:00,M29,B,5,Maintenance,Finishing,Terry Parker,8.34 tons
+2023-06-19 11:48:00,M06,A,83,Maintenance,Melting,Jordan Pruitt,₹3875301
+2023-02-10 17:04:00,M25,A,54,Operator Error,Finishing,Lisa Aguilar,117.64 tons
+2023-05-07 11:50:00,M06,A,22,Operator Error,Casting,Mary King,₹244821
+2023-09-14 02:05:00,M19,C,91,Maintenance,Finishing,Kathleen Weaver,₹1549026
+2023-01-28 15:27:00,M03,A,48,Maintenance,Melting,Terry Parker,55.85 tons
+2023-05-27 16:50:00,M26,A,80,Overheating,Melting,Howard Carter,63.63 tons
+2023-04-14 03:33:00,M25,A,47,Inspection,Casting,Haley Mcdaniel,112.04 tons
+2023-10-16 01:32:00,M19,A,106,Overheating,Rolling,Derek Berry,₹2912321
+2023-12-21 18:26:00,M21,B,97,Maintenance,Finishing,Oscar Singh,₹1836160
+2023-05-08 16:29:00,M13,B,37,Sensor Fault,Melting,Keith Garcia,₹1774206
+2023-10-13 03:43:00,M28,C,74,Maintenance,Rolling,Oscar Singh,120.7 tons
+2023-12-28 07:27:00,M05,B,64,Sensor Fault,Melting,Howard Carter,145.32 tons
+2023-03-06 14:35:00,M27,C,86,Material Shortage,Casting,Monique Gonzalez,88.62 tons
+2023-07-01 17:02:00,M23,A,16,Overheating,Casting,Christopher Sanders,22.02 tons
+2023-11-02 13:58:00,M06,B,65,Power Failure,Rolling,Jordan Pruitt,140.24 tons
+2023-06-14 06:20:00,M06,B,76,Maintenance,Casting,Dustin Rodriguez,77.69 tons
+2023-03-18 06:12:00,M03,B,5,Maintenance,Rolling,Haley Mcdaniel,₹229624
+2023-03-09 19:07:00,M11,C,9,Unknown,Casting,Marcus Banks,16.27 tons
+2023-11-13 04:12:00,M06,A,5,Maintenance,Melting,Bill Hernandez,8.04 tons
+2023-07-13 03:50:00,M22,B,36,Overheating,Melting,Christian Gonzalez,₹1569390
+2023-04-22 20:10:00,M02,B,66,Maintenance,Melting,Sherri Allen,45.8 tons
+2023-05-31 16:45:00,M06,C,90,Overheating,Melting,Kelly Klein,116.54 tons
+2023-12-23 03:35:00,M29,C,47,Overheating,Rolling,Lisa Aguilar,106.74 tons
+2023-09-26 23:45:00,M06,B,93,Maintenance,Rolling,Jamie Hawkins,96.45 tons
+2023-02-14 21:13:00,M05,C,5,Material Shortage,Melting,Mary King,₹132797
+2023-06-15 16:04:00,M18,A,5,Inspection,Casting,Abigail Meyer,₹187413
+2023-12-12 18:09:00,M19,A,43,Power Failure,Melting,Kathleen Gibson,₹1978782
+2023-04-18 08:50:00,M04,B,56,Maintenance,Finishing,Ms. Teresa Ramirez,₹842656
+2023-11-05 07:00:00,M03,C,44,Power Failure,Finishing,Jennifer Phillips,₹893879
+2023-02-18 19:07:00,M03,B,5,Operator Error,Rolling,Kenneth Kent,₹233432
+2023-01-10 00:04:00,M26,C,42,Material Shortage,Rolling,Abigail Meyer,33.57 tons
+2023-03-14 23:11:00,M30,A,5,Operator Error,Melting,Dustin Rodriguez,₹226027
+2023-10-27 04:49:00,M09,B,65,Material Shortage,Rolling,Nicole Short,68.3 tons
+2023-04-15 18:00:00,M20,C,55,Sensor Fault,Rolling,Christian Gonzalez,₹1279286
+2023-06-22 23:59:00,M02,C,16,Power Failure,Melting,John Joseph,34.16 tons
+2023-08-09 16:16:00,M10,B,29,Inspection,Casting,Benjamin Castro,₹554430
+2023-08-07 19:16:00,M24,B,13,Mechanical Jam,Rolling,Abigail Meyer,₹176429
+2023-11-18 15:33:00,M07,B,43,Sensor Fault,Casting,John Joseph,₹1316263
+2023-04-26 18:14:00,M03,B,73,Sensor Fault,Rolling,Terry Parker,₹814528
+2023-05-21 08:47:00,M29,A,15,Inspection,Melting,Andrea Velasquez,18.31 tons
+2023-05-25 23:41:00,M09,B,60,Inspection,Rolling,Kelly Klein,₹1180651
+2023-12-22 22:10:00,M20,B,29,Maintenance,Casting,Justin Rivera,₹689328
+2023-07-08 08:24:00,M24,C,21,Maintenance,Melting,Amy Valenzuela,34.53 tons
+2023-06-06 01:29:00,M28,A,41,Material Shortage,Rolling,Kenneth Kent,₹1251781
+2023-01-07 11:30:00,M16,A,13,Material Shortage,Rolling,Christopher Sanders,22.32 tons
+2023-08-11 10:17:00,M23,C,28,Material Shortage,Rolling,Lisa Aguilar,₹794077
+2023-06-08 21:28:00,M15,B,9,Material Shortage,Casting,Christian Gonzalez,₹92645
+2023-09-30 12:08:00,M18,C,103,Operator Error,Melting,Benjamin Castro,120.77 tons
+2023-07-21 07:53:00,M21,B,46,Inspection,Melting,Sheena Huynh DVM,70.59 tons
+2023-06-24 23:34:00,M29,A,24,Mechanical Jam,Casting,Sherri Allen,27.34 tons
+2023-04-12 21:26:00,M24,A,51,Material Shortage,Finishing,Jamie Hawkins,₹1335381
+2023-01-26 17:14:00,M19,C,41,Unknown,Casting,Monique Gonzalez,₹774675
+2023-12-13 10:04:00,M30,C,38,Overheating,Rolling,Derek Berry,₹1712272
+2023-05-12 21:34:00,M10,A,63,Power Failure,Casting,Erin Crawford,₹1091332
+2023-09-02 09:36:00,M21,A,67,Maintenance,Melting,Sheena Huynh DVM,152.34 tons
+2023-09-28 15:37:00,M09,C,29,Overheating,Casting,Nicole Short,51.3 tons
+2023-02-21 20:35:00,M16,A,27,Operator Error,Casting,Lisa Aguilar,₹716155
+2023-04-20 19:02:00,M05,A,36,Overheating,Finishing,Andrea Velasquez,80.09 tons
+2023-05-12 07:57:00,M25,A,5,Power Failure,Rolling,Keith Garcia,3.08 tons
+2023-11-26 04:12:00,M09,A,5,Mechanical Jam,Melting,Derek Berry,10.14 tons
+2023-03-06 02:38:00,M05,C,86,Power Failure,Rolling,Ashlee Thompson,₹2178608
+2023-01-28 11:17:00,M18,A,94,Sensor Fault,Finishing,Howard Carter,₹2936687
+2023-01-14 01:06:00,M22,A,37,Material Shortage,Melting,Mary King,26.1 tons
+2023-08-11 21:44:00,M06,A,62,Inspection,Melting,Dustin Rodriguez,95.52 tons
+2023-09-04 00:05:00,M14,C,54,Unknown,Rolling,Kathleen Weaver,47.35 tons
+2023-10-21 17:46:00,M01,A,137,Maintenance,Finishing,Ms. Teresa Ramirez,₹4601516
+2023-05-04 01:13:00,M04,B,78,Sensor Fault,Casting,Lisa Aguilar,₹1578062
+2023-02-05 09:07:00,M20,A,41,Material Shortage,Rolling,Marcus Banks,29.99 tons
+2023-11-20 12:57:00,M13,A,16,Operator Error,Rolling,Jennifer Phillips,29.94 tons
+2023-01-07 18:36:00,M10,B,5,Material Shortage,Rolling,Kenneth Kent,₹190145
+2023-11-01 23:30:00,M27,A,51,Operator Error,Rolling,Dustin Rodriguez,36.34 tons
+2023-05-25 15:36:00,M20,A,22,Mechanical Jam,Casting,Bill Hernandez,29.03 tons
+2023-04-27 18:43:00,M02,C,5,Power Failure,Melting,Nicole Short,2.53 tons
+2023-03-06 19:26:00,M30,A,25,Inspection,Rolling,Jennifer Phillips,₹1029526
+2023-02-24 15:33:00,M24,C,12,Maintenance,Melting,Haley Harmon,29.45 tons
+2023-07-12 07:55:00,M15,A,95,Maintenance,Melting,Kathleen Gibson,₹2318815
+2023-08-16 16:57:00,M14,C,71,Maintenance,Casting,Kathleen Gibson,55.15 tons
+2023-05-05 03:55:00,M11,B,44,Setup Change,Finishing,Kenneth Kent,₹603594
+2023-09-07 13:30:00,M06,A,89,Power Failure,Finishing,Kenneth Kent,₹3346052
+2023-12-15 05:56:00,M26,B,47,Material Shortage,Casting,Kelly Klein,91.78 tons
+2023-04-27 01:38:00,M04,B,19,Setup Change,Rolling,David Sanders Jr.,₹327758
+2023-10-04 12:37:00,M25,B,90,Material Shortage,Casting,Duane James,132.86 tons
+2023-10-27 11:42:00,M15,A,61,Maintenance,Rolling,Christopher Sanders,₹2264146
+2023-06-13 02:25:00,M22,B,13,Operator Error,Rolling,Oscar Singh,23.7 tons
+2023-07-01 00:11:00,M16,B,39,Material Shortage,Rolling,Jennifer Phillips,₹1261017
+2023-02-09 17:36:00,M01,C,18,Setup Change,Rolling,Nicole Short,₹805979
+2023-02-24 12:21:00,M25,B,5,Overheating,Rolling,Kenneth Kent,4.73 tons
+2023-10-03 17:10:00,M13,A,72,Maintenance,Rolling,David Sanders Jr.,159.35 tons
+2023-11-22 13:04:00,M11,A,102,Unknown,Casting,Marcus Banks,135.12 tons
+2023-01-01 02:57:00,M27,A,5,Mechanical Jam,Finishing,Sheena Huynh DVM,₹162466
+2023-11-29 04:48:00,M11,B,61,Inspection,Casting,Andrea Velasquez,124.12 tons
+2023-12-11 12:36:00,M23,C,25,Overheating,Rolling,Benjamin Castro,₹471747
+2023-09-06 13:38:00,M12,C,30,Unknown,Melting,Terry Parker,21.38 tons
+2023-04-30 12:49:00,M16,A,27,Inspection,Casting,Abigail Meyer,46.49 tons
+2023-05-17 13:33:00,M04,B,19,Maintenance,Casting,Bill Hernandez,₹271901
+2023-10-29 19:23:00,M02,C,46,Inspection,Rolling,John Cross,77.22 tons
+2023-04-09 00:56:00,M16,A,20,Operator Error,Melting,Ashlee Thompson,₹586345
+2023-05-10 00:50:00,M23,C,53,Maintenance,Casting,Benjamin Castro,90.16 tons
+2023-08-23 08:37:00,M17,B,43,Power Failure,Rolling,Jason Obrien,104.37 tons
+2023-08-03 05:03:00,M15,A,37,Maintenance,Rolling,Julie Morris,70.41 tons
+2023-08-17 13:59:00,M23,C,17,Setup Change,Rolling,Bill Hernandez,32.79 tons
+2023-09-09 10:26:00,M30,C,27,Maintenance,Casting,Keith Garcia,₹1019856
+2023-08-23 18:01:00,M23,A,67,Mechanical Jam,Rolling,Justin Rivera,₹2457981
+2023-10-31 23:57:00,M22,C,60,Setup Change,Rolling,Ashlee Thompson,₹1854551
+2023-01-19 09:39:00,M13,A,15,Maintenance,Melting,Kenneth Kent,₹246561
+2023-07-28 16:58:00,M22,B,47,Maintenance,Melting,Dustin Rodriguez,74.37 tons
+2023-09-19 04:25:00,M27,B,67,Maintenance,Casting,Erin Crawford,₹2659666
+2023-10-11 04:17:00,M08,C,5,Mechanical Jam,Casting,Dustin Rodriguez,₹59395
+2023-10-05 20:38:00,M13,B,61,Unknown,Finishing,Howard Carter,₹741277
+2023-07-03 00:30:00,M07,C,25,Inspection,Casting,John Cross,₹1161486
+2023-09-25 18:44:00,M25,C,62,Operator Error,Rolling,Bill Hernandez,53.0 tons
+2023-02-24 05:26:00,M06,A,22,Sensor Fault,Melting,Kathleen Gibson,35.49 tons
+2023-04-05 17:04:00,M06,C,5,Inspection,Melting,Andrea Velasquez,₹80961
+2023-04-22 22:09:00,M30,B,5,Operator Error,Casting,Oscar Singh,₹110230
+2023-09-18 17:59:00,M03,C,46,Overheating,Melting,Keith Garcia,₹1906715
+2023-04-27 01:12:00,M14,C,52,Operator Error,Melting,Haley Harmon,₹1899735
+2023-08-30 01:48:00,M12,B,17,Maintenance,Casting,Terry Parker,27.59 tons
+2023-01-07 09:51:00,M04,C,64,Overheating,Melting,Oscar Singh,₹1264197
+2023-01-30 00:54:00,M22,B,5,Overheating,Casting,Kelly Klein,7.9 tons
+2023-07-25 22:47:00,M01,C,43,Inspection,Rolling,Julie Morris,25.27 tons
+2023-05-21 04:23:00,M11,C,8,Maintenance,Melting,Jordan Pruitt,₹280618
+2023-06-03 11:40:00,M22,C,25,Mechanical Jam,Casting,Ashlee Thompson,₹455579
+2023-11-13 22:19:00,M21,A,46,Sensor Fault,Melting,Andrea Velasquez,₹529710
+2023-02-23 08:06:00,M02,A,19,Mechanical Jam,Rolling,David Sanders Jr.,₹882349
+2023-10-24 19:53:00,M13,B,33,Material Shortage,Rolling,Marcus Banks,24.31 tons
+2023-01-05 07:05:00,M21,C,75,Material Shortage,Casting,Justin Rivera,164.74 tons
+2023-09-18 11:15:00,M30,C,27,Maintenance,Casting,Sheena Huynh DVM,₹574038
+2023-11-15 16:56:00,M13,B,70,Inspection,Melting,Derek Berry,₹1081868
+2023-10-12 17:05:00,M26,C,11,Overheating,Rolling,Sheena Huynh DVM,₹512234
+2023-09-29 16:55:00,M01,C,60,Inspection,Melting,Kathleen Gibson,101.6 tons
+2023-03-03 23:41:00,M10,A,88,Sensor Fault,Finishing,Mary King,203.39 tons
+2023-04-14 17:35:00,M06,A,5,Maintenance,Casting,Bill Hernandez,9.21 tons
+2023-02-09 14:30:00,M28,C,21,Power Failure,Rolling,Dustin Rodriguez,₹420577
+2023-05-24 18:07:00,M24,C,62,Power Failure,Rolling,Duane James,₹1201641
+2023-07-27 15:07:00,M20,A,38,Setup Change,Rolling,John Cross,69.12 tons
+2023-04-21 23:17:00,M19,C,56,Overheating,Rolling,Ashlee Thompson,63.08 tons
+2023-06-11 07:26:00,M23,C,26,Material Shortage,Melting,John Joseph,51.11 tons
+2023-12-16 11:48:00,M15,B,47,Overheating,Rolling,Erin Crawford,84.18 tons
+2023-03-01 16:35:00,M27,B,40,Inspection,Melting,Jordan Pruitt,78.68 tons
+2023-02-25 16:16:00,M24,A,80,Setup Change,Casting,Marcus Banks,₹2652482
+2023-06-04 22:15:00,M30,A,52,Operator Error,Rolling,Jordan Pruitt,106.62 tons
+2023-09-24 09:08:00,M13,A,55,Setup Change,Rolling,Dustin Rodriguez,82.62 tons
+2023-03-07 22:32:00,M13,B,32,Operator Error,Rolling,Oscar Singh,₹1289223
+2023-04-13 05:09:00,M15,A,30,Maintenance,Finishing,Jennifer Phillips,₹880204
+2023-09-19 06:24:00,M02,A,32,Mechanical Jam,Melting,Jamie Hawkins,18.74 tons
+2023-05-31 13:38:00,M17,B,56,Overheating,Finishing,Kathleen Gibson,100.63 tons
+2023-03-17 03:59:00,M23,C,32,Material Shortage,Melting,Jamie Hawkins,₹1049804
+2023-10-02 06:36:00,M21,B,53,Overheating,Rolling,Haley Mcdaniel,₹1327817
+2023-06-12 07:26:00,M17,B,107,Overheating,Casting,Kathleen Weaver,₹4867095
+2023-01-05 19:18:00,M17,A,71,Power Failure,Melting,Julie Morris,₹1310708
+2023-05-17 02:24:00,M06,B,35,Material Shortage,Casting,Haley Harmon,40.62 tons
+2023-03-24 12:44:00,M16,C,81,Power Failure,Melting,Derek Berry,₹2141313
+2023-06-27 10:26:00,M02,A,32,Operator Error,Melting,Julie Morris,52.63 tons
+2023-02-10 17:07:00,M06,B,5,Setup Change,Rolling,Christian Gonzalez,₹162720
+2023-01-14 13:24:00,M29,C,14,Sensor Fault,Casting,David Murphy,23.98 tons
+2023-12-10 06:32:00,M28,B,5,Maintenance,Casting,Sherri Allen,8.33 tons
+2023-05-13 10:39:00,M20,C,34,Operator Error,Melting,Monique Gonzalez,₹1151285
+2023-02-20 03:07:00,M08,B,45,Overheating,Melting,Bill Hernandez,₹2086810
+2023-11-02 16:26:00,M27,A,95,Material Shortage,Melting,Oscar Singh,₹4285460
+2023-03-27 13:44:00,M03,B,54,Material Shortage,Finishing,Jordan Pruitt,₹2477452
+2023-11-11 04:57:00,M17,B,38,Overheating,Melting,Terry Parker,90.32 tons
+2023-12-18 01:43:00,M26,B,69,Overheating,Casting,David Sanders Jr.,52.98 tons
+2023-12-14 10:38:00,M25,A,5,Setup Change,Melting,Sherri Allen,₹131729
+2023-05-18 15:22:00,M01,C,52,Sensor Fault,Melting,Terry Parker,26.75 tons
+2023-05-30 13:57:00,M23,B,68,Power Failure,Melting,Ashlee Thompson,₹1369881
+2023-11-05 10:16:00,M19,B,5,Material Shortage,Finishing,Christian Gonzalez,₹132645
+2023-12-18 07:44:00,M06,B,79,Operator Error,Rolling,Sheena Huynh DVM,₹3236454
+2023-10-17 21:49:00,M24,A,55,Inspection,Rolling,Haley Harmon,104.42 tons
+2023-04-28 19:34:00,M04,A,32,Operator Error,Casting,Erin Crawford,₹1196242
+2023-02-07 21:41:00,M06,B,63,Unknown,Melting,David Murphy,₹1818605
+2023-11-14 00:46:00,M03,A,113,Overheating,Rolling,Sherri Allen,143.36 tons
+2023-10-19 17:46:00,M20,C,50,Operator Error,Casting,Sherri Allen,102.36 tons
+2023-05-08 15:05:00,M21,B,52,Power Failure,Melting,Terry Parker,29.5 tons
+2023-06-18 16:44:00,M20,A,31,Material Shortage,Rolling,Christopher Sanders,₹417685
+2023-07-20 22:20:00,M25,B,19,Overheating,Rolling,Justin Rivera,10.08 tons
+2023-02-19 23:10:00,M30,A,69,Operator Error,Casting,Erin Crawford,₹1650742
+2023-07-21 08:19:00,M08,C,19,Unknown,Rolling,Christian Gonzalez,₹388441
+2023-10-24 11:11:00,M17,A,47,Operator Error,Rolling,Monique Gonzalez,₹1979531
+2023-07-07 15:31:00,M29,C,30,Mechanical Jam,Rolling,John Cross,₹975802
+2023-06-27 03:30:00,M25,B,59,Unknown,Rolling,Andrea Velasquez,₹2624374
+2023-12-17 23:02:00,M04,B,55,Maintenance,Rolling,Haley Harmon,₹1055846
+2023-08-18 21:47:00,M14,B,76,Operator Error,Melting,Jamie Hawkins,52.14 tons
+2023-09-07 00:45:00,M03,C,29,Setup Change,Rolling,Mary King,47.78 tons
+2023-05-14 02:23:00,M24,C,36,Setup Change,Melting,Bill Hernandez,35.43 tons
+2023-07-13 06:17:00,M07,A,15,Maintenance,Melting,Oscar Singh,30.87 tons
+2023-03-29 07:01:00,M30,A,31,Material Shortage,Rolling,Oscar Singh,68.64 tons
+2023-01-31 18:36:00,M28,B,56,Overheating,Rolling,David Sanders Jr.,₹1659403
+2023-07-24 02:00:00,M13,A,67,Mechanical Jam,Melting,Terry Parker,₹1951897
+2023-01-24 17:04:00,M17,B,17,Overheating,Rolling,Keith Garcia,12.59 tons
+2023-12-02 00:18:00,M11,C,71,Maintenance,Rolling,Lisa Aguilar,₹1634238
+2023-07-09 02:35:00,M06,C,85,Overheating,Melting,Oscar Singh,73.77 tons
+2023-11-05 16:56:00,M07,B,57,Sensor Fault,Rolling,Christian Gonzalez,49.01 tons
+2023-04-06 11:49:00,M19,C,101,Maintenance,Melting,Kenneth Kent,₹3253573
+2023-10-05 08:25:00,M07,A,21,Mechanical Jam,Casting,Nicole Short,₹358350
+2023-12-30 19:06:00,M05,C,7,Operator Error,Casting,Kathleen Weaver,11.37 tons
+2023-02-04 17:46:00,M13,A,5,Sensor Fault,Melting,Jamie Hawkins,8.8 tons
+2023-11-24 13:46:00,M24,B,89,Overheating,Rolling,Erin Crawford,₹1807464
+2023-01-15 10:38:00,M14,A,64,Overheating,Rolling,Sherri Allen,105.71 tons
+2023-05-08 02:17:00,M25,B,43,Overheating,Rolling,Kathleen Weaver,₹1198719
+2023-02-27 02:16:00,M13,C,53,Overheating,Rolling,Jennifer Phillips,₹1888030
+2023-09-03 16:17:00,M14,C,11,Material Shortage,Rolling,Haley Mcdaniel,13.06 tons
+2023-08-17 06:29:00,M11,C,118,Overheating,Melting,Christian Gonzalez,164.0 tons
+2023-09-22 10:45:00,M24,C,48,Operator Error,Rolling,Derek Berry,26.22 tons
+2023-06-20 20:24:00,M22,B,48,Unknown,Casting,David Murphy,62.12 tons
+2023-03-11 13:55:00,M03,B,66,Operator Error,Melting,Christian Gonzalez,₹3289476
+2023-03-17 16:16:00,M09,C,59,Maintenance,Rolling,Lisa Aguilar,58.69 tons
+2023-07-26 22:19:00,M15,C,51,Maintenance,Rolling,Derek Berry,93.18 tons
+2023-08-25 19:18:00,M28,B,21,Power Failure,Casting,Kenneth Kent,₹323496
+2023-05-09 21:56:00,M19,C,59,Power Failure,Casting,David Sanders Jr.,104.99 tons
+2023-08-14 11:43:00,M30,B,101,Power Failure,Melting,David Murphy,124.39 tons
+2023-07-09 04:27:00,M05,B,85,Maintenance,Rolling,Duane James,122.26 tons
+2023-01-07 01:21:00,M23,B,92,Unknown,Rolling,Christopher Sanders,₹3856510
+2023-06-18 08:46:00,M26,A,29,Operator Error,Melting,Erin Crawford,28.99 tons
+2023-10-11 18:54:00,M27,B,15,Maintenance,Melting,Jason Obrien,₹629975
+2023-07-17 23:11:00,M10,C,41,Sensor Fault,Casting,Abigail Meyer,26.11 tons
+2023-04-10 11:40:00,M10,A,46,Material Shortage,Rolling,Kenneth Kent,₹1365272
+2023-08-22 11:39:00,M01,A,77,Maintenance,Rolling,Keith Garcia,₹1638912
+2023-04-02 01:13:00,M23,B,5,Sensor Fault,Melting,Jennifer Phillips,4.67 tons
+2023-11-03 00:16:00,M10,B,90,Unknown,Rolling,Kathleen Gibson,196.84 tons
+2023-04-17 09:04:00,M02,B,40,Mechanical Jam,Melting,Nicole Short,91.66 tons
+2023-07-02 02:27:00,M27,B,32,Inspection,Melting,Jason Obrien,78.4 tons
+2023-06-29 23:28:00,M24,A,14,Maintenance,Casting,Benjamin Castro,₹689984
+2023-12-11 07:13:00,M13,C,5,Unknown,Finishing,Derek Berry,₹58437
+2023-03-30 22:34:00,M09,B,69,Material Shortage,Melting,Amy Valenzuela,₹1291095
+2023-03-24 05:34:00,M08,C,47,Power Failure,Melting,Kenneth Kent,₹1214119
+2023-06-27 00:17:00,M01,A,6,Operator Error,Rolling,Sherri Allen,12.25 tons
+2023-07-01 02:44:00,M06,B,6,Maintenance,Rolling,Amy Valenzuela,10.73 tons
+2023-03-20 04:48:00,M05,B,34,Maintenance,Finishing,Mary King,₹936657
+2023-05-21 12:18:00,M01,C,95,Overheating,Casting,Jamie Hawkins,₹2794148
+2023-11-15 13:52:00,M18,B,37,Operator Error,Rolling,David Sanders Jr.,44.23 tons
+2023-12-08 01:47:00,M09,C,5,Setup Change,Rolling,Haley Mcdaniel,₹139876
+2023-07-11 18:21:00,M18,B,37,Power Failure,Casting,Julie Morris,32.23 tons
+2023-01-14 15:09:00,M20,B,36,Mechanical Jam,Melting,Haley Mcdaniel,₹1136097
+2023-10-10 03:53:00,M07,C,5,Sensor Fault,Casting,Jennifer Phillips,₹114520
+2023-08-23 11:46:00,M04,A,43,Operator Error,Melting,Duane James,24.19 tons
+2023-03-19 22:55:00,M16,A,38,Maintenance,Rolling,Lisa Aguilar,₹1179248
+2023-07-06 08:51:00,M02,B,65,Maintenance,Casting,Christopher Sanders,₹1192719
+2023-12-24 19:56:00,M30,A,100,Power Failure,Rolling,John Joseph,₹4752975
+2023-10-30 21:18:00,M27,B,78,Mechanical Jam,Melting,Oscar Singh,45.34 tons
+2023-02-21 06:07:00,M27,B,36,Maintenance,Melting,Terry Parker,70.21 tons
+2023-10-08 14:08:00,M07,A,11,Operator Error,Melting,Keith Garcia,₹355582
+2023-03-18 19:59:00,M25,C,122,Operator Error,Rolling,Ashlee Thompson,₹2034029
+2023-05-12 08:39:00,M18,B,46,Operator Error,Rolling,Jordan Pruitt,₹1275142
+2023-09-14 13:18:00,M29,B,45,Operator Error,Finishing,John Joseph,79.49 tons
+2023-08-24 12:42:00,M20,A,44,Operator Error,Melting,Erin Crawford,₹887196
+2023-11-26 10:19:00,M15,B,50,Maintenance,Melting,Dustin Rodriguez,₹1535218
+2023-08-08 19:03:00,M01,B,40,Unknown,Melting,Howard Carter,85.76 tons
+2023-07-20 22:42:00,M30,C,27,Operator Error,Rolling,David Sanders Jr.,15.54 tons
+2023-09-16 23:32:00,M05,A,28,Overheating,Casting,Jason Obrien,59.42 tons
+2023-03-08 22:09:00,M19,B,44,Operator Error,Melting,Haley Mcdaniel,₹1835511
+2023-05-06 21:41:00,M16,C,28,Sensor Fault,Casting,Benjamin Castro,₹616440
+2023-10-05 20:00:00,M03,A,23,Setup Change,Rolling,Ashlee Thompson,51.42 tons
+2023-06-15 02:10:00,M24,C,48,Inspection,Finishing,Lisa Aguilar,74.34 tons
+2023-08-21 12:27:00,M18,C,37,Maintenance,Rolling,Haley Harmon,68.35 tons
+2023-10-14 02:07:00,M15,C,90,Operator Error,Melting,Ashlee Thompson,115.98 tons
+2023-04-07 06:10:00,M11,A,5,Power Failure,Casting,Erin Crawford,3.35 tons
+2023-11-13 09:16:00,M25,C,77,Maintenance,Melting,Erin Crawford,99.38 tons
+2023-05-23 19:05:00,M18,C,82,Unknown,Rolling,Jason Obrien,168.39 tons
+2023-08-24 12:01:00,M22,C,5,Maintenance,Rolling,Ashlee Thompson,4.4 tons
+2023-09-08 21:00:00,M20,C,34,Maintenance,Rolling,Mary King,₹1686616
+2023-11-19 00:10:00,M20,A,33,Power Failure,Finishing,Haley Harmon,41.17 tons
+2023-03-04 11:42:00,M04,C,5,Maintenance,Finishing,Jennifer Phillips,₹214026
+2023-01-11 00:00:00,M11,C,21,Mechanical Jam,Rolling,Nicole Short,19.28 tons
+2023-06-04 06:47:00,M07,C,11,Operator Error,Melting,Nicole Short,₹546612
+2023-01-14 09:21:00,M13,C,97,Setup Change,Rolling,Jamie Hawkins,103.6 tons
+2023-07-17 12:59:00,M02,B,73,Material Shortage,Melting,Lisa Aguilar,₹2665906
+2023-09-20 07:17:00,M28,A,83,Maintenance,Casting,Lisa Aguilar,104.7 tons
+2023-03-14 12:42:00,M29,B,66,Power Failure,Rolling,David Murphy,99.09 tons
+2023-11-30 11:53:00,M18,C,11,Maintenance,Melting,Terry Parker,16.28 tons
+2023-04-25 07:51:00,M01,B,29,Sensor Fault,Rolling,Sheena Huynh DVM,71.24 tons
+2024-01-01 00:00:00,M09,A,59,Material Shortage,Casting,Marcus Banks,₹2829914
+2023-06-14 06:20:00,M05,B,8,Setup Change,Rolling,David Murphy,₹246629
+2023-06-15 14:35:00,M14,A,66,Operator Error,Rolling,Sheena Huynh DVM,₹1529311
+2023-04-06 22:53:00,M07,C,37,Maintenance,Rolling,Bill Hernandez,₹827317
+2023-04-09 11:42:00,M14,A,33,Material Shortage,Rolling,Derek Berry,53.28 tons
+2023-03-28 04:58:00,M06,B,66,Inspection,Melting,Marcus Banks,₹2983548
+2023-10-29 11:52:00,M14,B,58,Power Failure,Finishing,Kenneth Kent,50.8 tons
+2023-04-06 18:55:00,M06,A,34,Mechanical Jam,Rolling,Kenneth Kent,₹1172812
+2023-06-19 01:41:00,M08,C,79,Maintenance,Melting,Nicole Short,173.19 tons
+2023-12-08 08:14:00,M23,C,12,Overheating,Casting,Kathleen Weaver,9.93 tons
+2023-06-14 18:24:00,M02,B,63,Mechanical Jam,Melting,Kenneth Kent,₹1190836
+2023-05-28 16:46:00,M25,A,62,Maintenance,Finishing,John Cross,₹1835058
+2023-08-25 13:57:00,M28,B,35,Setup Change,Rolling,Kathleen Gibson,₹1504059
+2023-08-16 20:16:00,M13,C,54,Setup Change,Rolling,Jordan Pruitt,₹2431691
+2023-01-29 01:02:00,M17,A,7,Power Failure,Casting,Kathleen Gibson,₹138802
+2023-10-16 01:48:00,M24,A,72,Operator Error,Rolling,Amy Valenzuela,99.3 tons
+2023-08-10 18:28:00,M25,B,39,Power Failure,Rolling,Oscar Singh,₹1466326
+2023-04-14 13:49:00,M15,C,29,Power Failure,Casting,Kelly Klein,48.46 tons
+2023-04-09 12:39:00,M13,B,76,Overheating,Melting,Andrea Velasquez,₹2926408
+2023-05-28 01:01:00,M29,B,23,Maintenance,Rolling,Derek Berry,₹343660
+2023-03-25 03:10:00,M23,B,5,Material Shortage,Melting,Lisa Aguilar,₹245038
+2023-04-27 10:26:00,M13,C,5,Overheating,Casting,Monique Gonzalez,₹181906
+2023-04-20 07:00:00,M06,A,63,Maintenance,Casting,Abigail Meyer,123.5 tons
+2023-11-21 22:55:00,M10,C,6,Maintenance,Casting,Bill Hernandez,12.18 tons
+2023-01-09 21:20:00,M15,B,97,Inspection,Rolling,Christopher Sanders,₹2884651
+2023-06-07 22:08:00,M19,C,5,Power Failure,Rolling,David Murphy,₹51314
+2023-07-22 12:22:00,M20,C,95,Operator Error,Casting,Amy Valenzuela,57.96 tons
+2023-09-12 03:33:00,M02,A,51,Inspection,Rolling,Sherri Allen,119.38 tons
+2023-02-05 16:53:00,M04,B,42,Unknown,Melting,Dustin Rodriguez,₹1581742
+2023-05-10 04:37:00,M15,C,28,Operator Error,Finishing,David Murphy,₹641560
+2023-10-03 22:26:00,M27,A,56,Mechanical Jam,Casting,Haley Mcdaniel,43.07 tons
+2023-07-19 19:48:00,M11,C,43,Power Failure,Melting,Ms. Teresa Ramirez,₹617999
+2023-03-05 20:08:00,M16,C,78,Sensor Fault,Finishing,Dustin Rodriguez,171.26 tons
+2023-07-09 01:53:00,M17,C,48,Unknown,Rolling,Duane James,₹1433082
+2023-12-29 10:39:00,M16,A,49,Setup Change,Melting,Dustin Rodriguez,₹493098
+2023-01-18 11:11:00,M15,C,34,Mechanical Jam,Casting,Ms. Teresa Ramirez,₹1698622
+2023-10-29 11:53:00,M02,B,43,Overheating,Casting,Ms. Teresa Ramirez,38.8 tons
+2023-07-25 01:47:00,M09,A,54,Overheating,Rolling,Howard Carter,₹785887
+2023-08-31 16:32:00,M11,B,5,Sensor Fault,Rolling,Marcus Banks,₹88803
+2023-09-04 01:52:00,M30,C,5,Power Failure,Rolling,Kathleen Gibson,₹146299
+2023-12-02 09:52:00,M29,C,67,Setup Change,Rolling,Abigail Meyer,₹820139
+2023-08-06 23:24:00,M19,C,50,Material Shortage,Rolling,Marcus Banks,93.55 tons
+2023-09-15 11:31:00,M03,A,39,Overheating,Melting,Lisa Aguilar,₹1704153
+2023-10-11 16:09:00,M06,C,45,Maintenance,Casting,Sheena Huynh DVM,₹1016098
+2023-01-24 00:44:00,M09,B,55,Maintenance,Casting,John Joseph,132.08 tons
+2023-06-07 09:19:00,M17,B,28,Maintenance,Rolling,Kathleen Gibson,₹1302956
+2023-11-20 03:30:00,M17,A,21,Mechanical Jam,Finishing,Jennifer Phillips,49.29 tons
+2023-08-14 23:54:00,M25,B,50,Maintenance,Casting,Terry Parker,₹765434
+2023-01-27 14:48:00,M15,B,15,Sensor Fault,Rolling,Christopher Sanders,8.82 tons
+2023-03-05 09:45:00,M11,B,57,Setup Change,Melting,Sheena Huynh DVM,114.97 tons
+2023-06-02 19:19:00,M11,A,5,Maintenance,Melting,Howard Carter,₹184224
+2023-07-18 12:58:00,M05,A,75,Overheating,Melting,Oscar Singh,₹1057125
+2023-09-13 02:15:00,M18,B,59,Overheating,Finishing,Dustin Rodriguez,₹994208
+2023-08-15 17:43:00,M20,B,52,Operator Error,Melting,Marcus Banks,96.25 tons
+2023-03-19 03:12:00,M13,A,74,Maintenance,Rolling,Sherri Allen,₹2603233
+2023-11-21 15:33:00,M20,B,94,Overheating,Casting,Jordan Pruitt,220.48 tons
+2023-12-06 02:36:00,M19,A,75,Maintenance,Casting,Andrea Velasquez,84.06 tons
+2023-12-05 21:23:00,M16,A,5,Unknown,Melting,Oscar Singh,6.13 tons
+2023-05-14 12:19:00,M23,C,6,Overheating,Casting,Howard Carter,3.36 tons
+2023-12-13 03:04:00,M04,B,26,Power Failure,Casting,Dustin Rodriguez,₹888617
+2023-04-03 18:22:00,M17,A,45,Power Failure,Casting,Benjamin Castro,80.95 tons
+2023-08-08 23:53:00,M18,B,60,Power Failure,Rolling,Oscar Singh,49.08 tons
+2023-12-18 06:06:00,M13,A,23,Overheating,Casting,Justin Rivera,56.59 tons
+2023-09-07 04:23:00,M18,C,50,Maintenance,Rolling,Haley Mcdaniel,₹1923817
+2023-12-21 08:28:00,M04,C,22,Operator Error,Rolling,Benjamin Castro,₹375033
+2023-10-23 11:45:00,M03,C,26,Maintenance,Casting,Lisa Aguilar,46.54 tons
+2023-02-14 18:28:00,M03,A,5,Mechanical Jam,Casting,Christopher Sanders,₹182176
+2023-11-26 20:18:00,M18,B,17,Overheating,Rolling,Bill Hernandez,38.33 tons
+2023-08-07 06:15:00,M19,C,5,Overheating,Finishing,Ashlee Thompson,₹233023
+2023-03-07 00:24:00,M19,A,15,Material Shortage,Rolling,Duane James,₹187446
+2023-02-08 16:28:00,M01,C,76,Operator Error,Finishing,Kelly Klein,₹3391666
+2023-06-21 07:08:00,M14,C,16,Operator Error,Rolling,Lisa Aguilar,21.93 tons
+2023-06-03 19:16:00,M22,A,123,Power Failure,Melting,Lisa Aguilar,₹3002616
+2023-10-31 19:43:00,M05,B,59,Unknown,Rolling,Duane James,106.01 tons
+2023-04-15 20:30:00,M24,B,50,Material Shortage,Finishing,Duane James,89.22 tons
+2023-10-30 19:36:00,M28,B,19,Setup Change,Rolling,Ashlee Thompson,₹535339
+2023-11-05 20:06:00,M18,B,66,Overheating,Melting,Ashlee Thompson,₹2185757
+2023-06-22 09:30:00,M23,C,27,Overheating,Finishing,David Sanders Jr.,66.32 tons
+2023-12-18 21:43:00,M23,B,48,Maintenance,Rolling,David Murphy,94.2 tons
+2023-07-23 11:13:00,M15,C,121,Maintenance,Casting,David Murphy,213.12 tons
+2023-02-26 20:34:00,M22,C,42,Operator Error,Rolling,Oscar Singh,49.86 tons
+2023-01-08 20:27:00,M16,B,79,Operator Error,Rolling,Monique Gonzalez,191.27 tons
+2023-08-03 12:49:00,M10,A,23,Maintenance,Finishing,Sheena Huynh DVM,₹748609
+2023-02-14 17:21:00,M21,B,43,Operator Error,Rolling,Dustin Rodriguez,₹1503825
+2023-07-28 20:28:00,M16,A,98,Maintenance,Melting,Kenneth Kent,169.7 tons
+2023-07-20 09:46:00,M28,B,26,Maintenance,Melting,Keith Garcia,₹1028525
+2023-11-22 05:49:00,M12,A,99,Overheating,Casting,Kathleen Weaver,153.92 tons
+2023-01-25 02:17:00,M11,A,66,Unknown,Rolling,Jennifer Phillips,₹2647289
+2023-10-28 16:47:00,M25,B,28,Maintenance,Rolling,Derek Berry,55.12 tons
+2023-09-09 06:38:00,M02,C,63,Overheating,Casting,Amy Valenzuela,81.74 tons
+2023-08-08 10:46:00,M16,C,74,Unknown,Finishing,Haley Harmon,141.43 tons
+2023-12-12 14:03:00,M09,A,63,Operator Error,Rolling,Dustin Rodriguez,₹1761027
+2023-08-18 21:03:00,M17,C,5,Unknown,Melting,Jordan Pruitt,₹241236
+2023-11-11 10:00:00,M20,C,23,Inspection,Rolling,Kenneth Kent,₹464916
+2023-10-12 19:54:00,M15,C,37,Sensor Fault,Casting,Justin Rivera,₹1139529
+2023-05-12 00:16:00,M11,C,42,Maintenance,Melting,Haley Mcdaniel,29.21 tons
+2023-03-17 15:54:00,M22,B,63,Overheating,Casting,Jamie Hawkins,34.49 tons
+2023-03-08 22:47:00,M02,C,50,Material Shortage,Casting,Sherri Allen,₹1916150
+2023-03-29 08:45:00,M03,C,5,Maintenance,Rolling,David Sanders Jr.,₹86953
+2023-03-22 17:09:00,M23,A,56,Overheating,Rolling,Haley Mcdaniel,₹2626837
+2023-07-21 06:09:00,M25,B,63,Sensor Fault,Rolling,Howard Carter,129.87 tons
+2023-07-21 21:56:00,M25,A,61,Overheating,Rolling,Amy Valenzuela,129.66 tons
+2023-05-10 13:32:00,M15,A,77,Power Failure,Finishing,Oscar Singh,137.9 tons
+2023-03-20 22:57:00,M05,C,70,Mechanical Jam,Melting,Benjamin Castro,₹2703120
+2023-03-17 05:04:00,M02,A,58,Maintenance,Casting,John Cross,86.73 tons
+2023-01-01 15:09:00,M30,A,42,Material Shortage,Melting,Monique Gonzalez,₹1385395
+2023-12-24 07:14:00,M16,B,5,Power Failure,Casting,Haley Mcdaniel,₹50661
+2023-12-18 00:43:00,M04,C,57,Operator Error,Finishing,Monique Gonzalez,₹1483401
+2023-03-08 00:31:00,M12,C,51,Inspection,Rolling,Andrea Velasquez,₹1101515
+2023-05-28 21:47:00,M06,C,53,Maintenance,Rolling,Bill Hernandez,67.85 tons
+2023-03-19 17:54:00,M21,C,6,Overheating,Melting,John Cross,₹93586
+2023-05-21 14:32:00,M01,C,12,Unknown,Melting,Lisa Aguilar,18.97 tons
+2023-08-13 01:59:00,M16,C,76,Unknown,Casting,Marcus Banks,46.52 tons
+2023-02-01 04:14:00,M13,A,43,Maintenance,Rolling,Terry Parker,79.81 tons
+2023-04-19 11:09:00,M24,C,65,Maintenance,Melting,Jennifer Phillips,34.98 tons
+2023-02-03 08:26:00,M08,C,45,Material Shortage,Melting,Amy Valenzuela,₹1927330
+2023-03-12 20:18:00,M15,C,45,Maintenance,Rolling,Benjamin Castro,76.05 tons
+2023-06-10 14:47:00,M03,A,73,Power Failure,Casting,Christian Gonzalez,178.97 tons
+2023-04-11 00:00:00,M11,A,29,Mechanical Jam,Rolling,Monique Gonzalez,30.39 tons
+2023-10-30 07:20:00,M06,C,47,Overheating,Melting,Jason Obrien,₹546513
+2023-03-14 19:03:00,M26,C,31,Material Shortage,Casting,Marcus Banks,₹410096
+2023-01-06 06:14:00,M06,A,31,Sensor Fault,Rolling,Dustin Rodriguez,65.56 tons
+2023-12-13 14:55:00,M23,A,35,Maintenance,Rolling,Terry Parker,34.25 tons
+2023-05-08 02:27:00,M20,C,51,Maintenance,Melting,Kathleen Weaver,₹689563
+2023-08-08 07:50:00,M12,B,30,Maintenance,Melting,Kelly Klein,₹1472149
+2023-09-21 12:41:00,M28,C,82,Operator Error,Rolling,Ms. Teresa Ramirez,72.77 tons
+2023-04-19 15:45:00,M22,B,18,Power Failure,Melting,Kathleen Gibson,22.11 tons
+2023-06-02 14:50:00,M14,B,39,Overheating,Casting,Andrea Velasquez,77.25 tons
+2023-05-09 01:51:00,M06,A,31,Power Failure,Melting,Jason Obrien,₹1044956
+2023-08-26 08:46:00,M14,A,88,Sensor Fault,Casting,Haley Harmon,₹2027985
+2023-03-13 09:47:00,M08,C,50,Power Failure,Melting,Haley Harmon,83.51 tons
+2023-02-09 13:38:00,M29,B,75,Maintenance,Finishing,Andrea Velasquez,93.52 tons
+2023-11-30 07:35:00,M24,A,5,Material Shortage,Finishing,Bill Hernandez,2.82 tons
+2023-02-13 10:29:00,M09,A,53,Maintenance,Rolling,Abigail Meyer,62.92 tons
+2023-08-03 22:19:00,M20,A,71,Mechanical Jam,Rolling,Oscar Singh,₹2351864
+2023-06-17 06:20:00,M03,B,47,Inspection,Rolling,Ms. Teresa Ramirez,₹2043539
+2023-07-23 06:51:00,M01,C,76,Power Failure,Casting,Jason Obrien,126.08 tons
+2023-04-19 11:26:00,M30,C,29,Setup Change,Rolling,Kathleen Gibson,41.8 tons
+2023-01-25 11:33:00,M14,C,87,Overheating,Casting,Benjamin Castro,85.35 tons
+2023-01-10 01:06:00,M23,C,113,Power Failure,Melting,Mary King,202.87 tons
+2023-03-08 01:36:00,M01,B,34,Material Shortage,Melting,Andrea Velasquez,₹1356309
+2023-01-18 18:39:00,M15,B,31,Mechanical Jam,Casting,Christian Gonzalez,69.54 tons
+2023-12-05 02:09:00,M23,C,88,Maintenance,Rolling,Lisa Aguilar,₹2051829
+2023-01-24 19:43:00,M10,B,92,Mechanical Jam,Rolling,Oscar Singh,₹3843681
+2023-02-28 22:51:00,M20,B,29,Sensor Fault,Melting,John Joseph,₹418721
+2023-09-24 05:09:00,M15,C,32,Maintenance,Rolling,Erin Crawford,₹1037770
+2023-05-30 01:36:00,M05,B,36,Maintenance,Melting,Nicole Short,₹1443279
+2023-06-02 18:24:00,M25,C,5,Mechanical Jam,Rolling,Kenneth Kent,₹134585
+2023-02-09 15:45:00,M03,B,17,Overheating,Rolling,Terry Parker,₹489711
+2023-08-01 19:41:00,M15,C,14,Overheating,Rolling,Haley Mcdaniel,31.75 tons
+2023-03-05 13:49:00,M03,B,21,Setup Change,Melting,Haley Mcdaniel,22.09 tons
+2023-04-18 17:41:00,M16,A,43,Inspection,Rolling,Marcus Banks,104.88 tons
+2023-04-07 03:20:00,M16,B,52,Power Failure,Casting,Marcus Banks,32.55 tons
+2023-06-19 04:13:00,M27,C,91,Material Shortage,Rolling,Monique Gonzalez,₹3774040
+2023-12-21 00:03:00,M19,C,15,Sensor Fault,Casting,John Cross,24.52 tons
+2023-08-12 04:23:00,M06,B,74,Maintenance,Rolling,Dustin Rodriguez,₹880064
+2023-09-15 03:14:00,M10,B,38,Unknown,Rolling,Derek Berry,₹813574
+2023-05-08 16:37:00,M27,C,43,Sensor Fault,Rolling,Jennifer Phillips,31.55 tons
+2023-08-19 13:26:00,M19,A,65,Power Failure,Rolling,Ms. Teresa Ramirez,₹740191
+2023-08-19 18:59:00,M12,A,11,Overheating,Rolling,Derek Berry,₹163455
+2023-01-19 03:35:00,M13,B,56,Mechanical Jam,Finishing,Howard Carter,136.66 tons
+2023-08-30 05:32:00,M21,C,49,Overheating,Casting,David Sanders Jr.,₹2057169
+2023-11-18 22:21:00,M11,C,59,Maintenance,Rolling,Kathleen Gibson,94.51 tons
+2023-08-13 08:07:00,M01,B,53,Material Shortage,Melting,Mary King,32.33 tons
+2023-05-23 02:29:00,M19,C,118,Maintenance,Finishing,Kenneth Kent,78.73 tons
+2023-11-21 08:56:00,M22,C,25,Unknown,Finishing,Christian Gonzalez,28.39 tons
+2023-02-10 19:30:00,M30,C,29,Overheating,Melting,Ashlee Thompson,36.12 tons
+2023-07-27 06:37:00,M12,B,26,Overheating,Rolling,Erin Crawford,50.85 tons
+2023-11-20 11:18:00,M24,B,28,Mechanical Jam,Melting,Ashlee Thompson,₹743897
+2023-03-04 16:19:00,M05,A,25,Overheating,Finishing,Terry Parker,₹316115
+2023-10-01 15:05:00,M03,A,80,Power Failure,Finishing,Abigail Meyer,113.94 tons
+2023-04-10 16:58:00,M07,A,87,Inspection,Melting,Kathleen Weaver,187.27 tons
+2023-08-10 07:17:00,M16,C,27,Sensor Fault,Melting,Christopher Sanders,29.71 tons
+2023-12-11 02:15:00,M04,C,20,Material Shortage,Melting,Keith Garcia,37.51 tons
+2023-06-28 05:19:00,M01,A,59,Mechanical Jam,Rolling,Haley Mcdaniel,₹1443752
+2023-12-16 21:05:00,M19,B,28,Inspection,Rolling,Nicole Short,₹1196474
+2023-09-29 18:10:00,M17,C,63,Operator Error,Casting,Derek Berry,₹998265
+2023-12-02 17:19:00,M29,C,51,Maintenance,Melting,Kenneth Kent,90.4 tons
+2023-09-17 05:16:00,M02,B,5,Overheating,Rolling,Haley Mcdaniel,₹203288
+2023-05-14 10:28:00,M25,A,91,Operator Error,Melting,Howard Carter,₹3919632
+2023-08-08 05:37:00,M09,C,98,Sensor Fault,Rolling,Jordan Pruitt,₹4207394
+2023-01-10 09:24:00,M05,C,26,Overheating,Casting,Abigail Meyer,60.36 tons
+2023-03-16 13:52:00,M07,A,33,Operator Error,Casting,Erin Crawford,₹1427469
+2023-03-24 23:42:00,M14,B,53,Setup Change,Melting,Duane James,₹1546578
+2023-08-15 21:08:00,M23,B,55,Maintenance,Rolling,Sherri Allen,₹2684245
+2023-05-06 09:32:00,M23,B,64,Maintenance,Casting,Haley Harmon,120.86 tons
+2023-06-14 23:40:00,M10,A,105,Maintenance,Finishing,Ashlee Thompson,₹4342924
+2023-02-26 14:31:00,M01,B,39,Mechanical Jam,Melting,Benjamin Castro,70.96 tons
+2023-02-13 03:44:00,M16,A,21,Setup Change,Melting,Sheena Huynh DVM,₹843822
+2023-04-01 03:26:00,M30,C,5,Maintenance,Finishing,Keith Garcia,₹55851
+2023-04-16 23:47:00,M28,C,23,Unknown,Finishing,Mary King,50.84 tons
+2023-06-26 02:09:00,M17,C,44,Maintenance,Casting,Christopher Sanders,₹1699828
+2023-07-25 05:48:00,M06,C,98,Maintenance,Casting,Ms. Teresa Ramirez,₹4317083
+2023-12-12 16:15:00,M12,C,29,Operator Error,Rolling,Benjamin Castro,35.08 tons
+2023-10-04 10:15:00,M14,A,51,Operator Error,Rolling,Howard Carter,36.75 tons
+2023-04-09 23:14:00,M16,B,44,Sensor Fault,Rolling,Kathleen Gibson,65.45 tons
+2023-10-08 04:32:00,M10,B,80,Material Shortage,Rolling,John Cross,105.17 tons
+2023-11-08 15:10:00,M07,A,120,Setup Change,Casting,John Joseph,299.69 tons
+2023-12-25 00:10:00,M22,A,29,Overheating,Rolling,David Murphy,37.4 tons
+2023-03-16 01:43:00,M24,A,30,Maintenance,Finishing,Monique Gonzalez,65.64 tons
+2023-10-22 09:27:00,M04,A,76,Inspection,Casting,Kenneth Kent,₹3088555
+2023-07-18 18:32:00,M25,C,65,Unknown,Rolling,Sherri Allen,₹3217560
+2023-07-23 01:58:00,M05,B,100,Maintenance,Melting,Kathleen Weaver,238.48 tons
+2023-01-22 15:27:00,M04,C,62,Maintenance,Melting,Marcus Banks,₹1568929
+2023-08-27 01:58:00,M05,B,34,Material Shortage,Melting,Haley Mcdaniel,₹1047130
+2023-12-25 09:36:00,M26,B,62,Maintenance,Rolling,Kathleen Weaver,₹1965246
+2023-01-13 20:48:00,M25,A,78,Unknown,Casting,Kelly Klein,88.07 tons
+2023-10-02 00:57:00,M15,B,69,Maintenance,Melting,Sheena Huynh DVM,₹1143038
+2023-11-10 14:41:00,M05,B,60,Sensor Fault,Rolling,Kelly Klein,₹1777328
+2023-12-09 02:40:00,M16,C,77,Inspection,Rolling,Christian Gonzalez,129.52 tons
+2023-10-03 02:29:00,M20,C,80,Overheating,Finishing,Howard Carter,134.47 tons
+2023-04-04 08:25:00,M27,B,86,Overheating,Casting,Marcus Banks,₹3010526
+2023-10-05 03:00:00,M04,B,64,Overheating,Rolling,Mary King,63.26 tons
+2023-06-20 20:19:00,M21,B,39,Operator Error,Finishing,Haley Mcdaniel,₹568575
+2023-05-04 15:06:00,M01,C,49,Overheating,Rolling,Ashlee Thompson,₹2256763
+2023-07-14 03:30:00,M01,C,81,Power Failure,Melting,Howard Carter,103.73 tons
+2023-03-13 03:52:00,M26,B,20,Maintenance,Rolling,Monique Gonzalez,42.46 tons
+2023-09-05 05:52:00,M06,C,56,Overheating,Finishing,Bill Hernandez,122.9 tons
+2023-02-24 20:19:00,M27,C,33,Maintenance,Melting,Sheena Huynh DVM,₹860676
+2023-06-14 11:38:00,M20,C,45,Unknown,Casting,Justin Rivera,52.82 tons
+2023-02-18 23:37:00,M19,C,83,Power Failure,Melting,Haley Mcdaniel,₹1832132
+2023-08-07 09:17:00,M14,C,50,Operator Error,Melting,Christian Gonzalez,76.54 tons
+2023-05-12 12:13:00,M29,A,46,Material Shortage,Rolling,Keith Garcia,₹851833
+2023-12-07 06:34:00,M09,C,5,Operator Error,Rolling,Ashlee Thompson,₹195323
+2023-02-13 14:30:00,M17,A,67,Overheating,Melting,Jennifer Phillips,₹2721620
+2023-11-14 00:58:00,M14,B,64,Inspection,Finishing,Ms. Teresa Ramirez,₹1323352
+2023-07-29 00:28:00,M21,A,109,Overheating,Rolling,Christian Gonzalez,87.19 tons
+2023-01-21 04:09:00,M08,B,35,Power Failure,Rolling,Ashlee Thompson,80.9 tons
+2023-05-28 02:02:00,M06,B,51,Maintenance,Melting,Kenneth Kent,₹869009
+2023-01-31 18:03:00,M24,B,52,Mechanical Jam,Melting,David Murphy,56.99 tons
+2023-02-16 07:10:00,M29,B,92,Setup Change,Rolling,David Murphy,200.53 tons
+2023-04-13 08:28:00,M08,A,42,Operator Error,Rolling,Kelly Klein,₹1812689
+2023-07-03 08:39:00,M16,A,53,Maintenance,Melting,Howard Carter,88.44 tons
+2023-10-11 22:52:00,M26,C,63,Sensor Fault,Finishing,Ms. Teresa Ramirez,53.57 tons
+2023-07-19 22:03:00,M15,B,50,Overheating,Rolling,Kathleen Weaver,₹1899235
+2023-03-24 06:08:00,M11,C,31,Power Failure,Rolling,Kenneth Kent,₹1471845
+2023-09-22 07:51:00,M16,C,50,Overheating,Rolling,Sherri Allen,98.94 tons
+2023-02-09 19:28:00,M23,C,77,Maintenance,Rolling,Sheena Huynh DVM,₹2927899
+2023-03-30 21:02:00,M18,A,14,Inspection,Rolling,Christian Gonzalez,₹654038
+2023-08-08 02:24:00,M03,A,48,Overheating,Casting,Derek Berry,₹1692197
+2023-10-23 20:24:00,M26,A,23,Overheating,Melting,Kathleen Weaver,30.5 tons
+2023-08-31 06:44:00,M23,B,80,Inspection,Casting,Derek Berry,₹2420270
+2023-09-14 05:08:00,M14,C,5,Sensor Fault,Rolling,Howard Carter,2.77 tons
+2023-02-07 22:29:00,M21,C,28,Maintenance,Rolling,Duane James,25.2 tons
+2023-08-11 11:49:00,M11,C,56,Maintenance,Melting,Terry Parker,₹2279440
+2023-04-05 17:32:00,M28,C,91,Sensor Fault,Casting,Howard Carter,204.48 tons
+2023-04-08 05:15:00,M09,A,43,Sensor Fault,Casting,Dustin Rodriguez,57.15 tons
+2023-05-13 10:44:00,M13,B,28,Unknown,Casting,Haley Harmon,15.29 tons
+2023-06-16 12:56:00,M30,A,101,Unknown,Melting,Derek Berry,175.34 tons
+2023-07-09 10:35:00,M05,A,5,Unknown,Melting,David Sanders Jr.,9.69 tons
+2023-11-13 20:57:00,M25,B,5,Inspection,Rolling,Haley Harmon,₹88108
+2023-07-13 20:13:00,M10,C,58,Power Failure,Melting,Ms. Teresa Ramirez,₹2888881
+2023-07-26 01:12:00,M24,C,29,Maintenance,Melting,Jennifer Phillips,71.12 tons
+2023-06-21 11:24:00,M20,B,14,Setup Change,Rolling,Andrea Velasquez,20.13 tons
+2023-08-24 09:07:00,M23,B,66,Sensor Fault,Casting,Ashlee Thompson,₹1336435
+2023-03-11 09:07:00,M18,A,52,Maintenance,Finishing,Nicole Short,₹2593218
+2023-02-03 03:22:00,M01,B,28,Operator Error,Rolling,Christian Gonzalez,₹428106
+2023-01-30 22:42:00,M19,A,6,Overheating,Rolling,Monique Gonzalez,₹91660
+2023-08-20 01:31:00,M23,C,71,Power Failure,Melting,Howard Carter,53.66 tons
+2023-07-24 14:50:00,M24,B,64,Setup Change,Melting,Jamie Hawkins,₹2589603
+2023-07-12 01:30:00,M17,B,42,Power Failure,Melting,Kathleen Weaver,₹674124
+2023-11-17 09:22:00,M02,A,100,Maintenance,Melting,Kathleen Gibson,82.71 tons
+2023-12-07 03:44:00,M14,A,12,Unknown,Finishing,Kathleen Gibson,29.73 tons
+2023-12-20 07:28:00,M15,B,5,Maintenance,Casting,Jennifer Phillips,3.44 tons
+2023-07-26 21:17:00,M06,A,24,Sensor Fault,Casting,David Sanders Jr.,₹802250
+2023-01-04 00:06:00,M17,C,43,Maintenance,Finishing,Jason Obrien,₹1594282
+2023-08-28 07:42:00,M01,B,52,Sensor Fault,Rolling,Christian Gonzalez,122.63 tons
+2023-03-19 05:42:00,M27,B,37,Maintenance,Melting,Nicole Short,89.18 tons
+2023-01-05 05:27:00,M11,A,55,Material Shortage,Finishing,Howard Carter,₹2749606
+2023-04-05 04:02:00,M07,A,7,Mechanical Jam,Melting,Amy Valenzuela,₹223203
+2023-10-05 17:17:00,M03,B,88,Overheating,Melting,Christian Gonzalez,194.01 tons
+2023-04-29 15:35:00,M13,B,42,Overheating,Casting,Jennifer Phillips,62.23 tons
+2023-11-11 20:00:00,M24,B,78,Setup Change,Rolling,Mary King,₹3376004
+2023-05-26 13:00:00,M16,B,55,Setup Change,Rolling,David Sanders Jr.,₹748489
+2023-11-04 16:21:00,M26,B,58,Material Shortage,Rolling,Ashlee Thompson,88.55 tons
+2023-12-04 12:41:00,M22,A,62,Material Shortage,Casting,Kathleen Weaver,₹2225118
+2023-03-03 03:29:00,M10,B,58,Power Failure,Finishing,Nicole Short,143.17 tons
+2023-08-07 18:01:00,M27,A,64,Operator Error,Melting,Amy Valenzuela,₹2988293
+2023-03-20 09:00:00,M17,B,84,Power Failure,Rolling,David Sanders Jr.,₹2034337
+2023-03-01 13:01:00,M25,C,50,Maintenance,Casting,Andrea Velasquez,43.22 tons
+2023-10-14 03:25:00,M02,A,66,Power Failure,Casting,Howard Carter,₹1861195
+2023-11-24 15:24:00,M20,B,42,Overheating,Finishing,Keith Garcia,27.57 tons
+2023-07-08 19:54:00,M28,C,88,Maintenance,Rolling,Christopher Sanders,46.34 tons
+2023-12-14 10:16:00,M15,C,24,Power Failure,Rolling,Sherri Allen,₹530687
+2023-09-20 16:11:00,M23,C,99,Unknown,Rolling,Sheena Huynh DVM,76.25 tons
+2023-05-19 22:30:00,M04,A,43,Sensor Fault,Melting,Marcus Banks,77.28 tons
+2023-06-26 01:24:00,M14,C,5,Inspection,Rolling,David Murphy,7.13 tons
+2023-12-12 03:33:00,M14,A,48,Maintenance,Finishing,John Cross,₹1385259
+2023-11-24 07:51:00,M19,A,24,Maintenance,Rolling,Christian Gonzalez,12.38 tons
+2023-11-11 10:02:00,M14,B,70,Sensor Fault,Rolling,Erin Crawford,₹803648
+2023-10-19 00:55:00,M16,C,25,Operator Error,Rolling,Kathleen Weaver,15.54 tons
+2023-01-14 20:23:00,M14,C,31,Overheating,Melting,Abigail Meyer,₹455006
+2023-09-10 12:08:00,M15,C,5,Power Failure,Melting,Bill Hernandez,6.88 tons
+2023-06-09 23:34:00,M19,C,31,Overheating,Rolling,Andrea Velasquez,33.69 tons
+2023-10-12 06:13:00,M14,C,5,Material Shortage,Rolling,Nicole Short,₹218906
+2023-05-31 21:13:00,M10,C,5,Sensor Fault,Rolling,Duane James,4.06 tons
+2023-12-25 09:34:00,M04,B,67,Unknown,Rolling,Jason Obrien,39.8 tons
+2023-01-14 04:51:00,M12,B,68,Overheating,Melting,Julie Morris,42.66 tons
+2023-11-10 13:38:00,M04,C,57,Maintenance,Rolling,Kathleen Weaver,67.3 tons
+2023-09-16 16:17:00,M25,A,15,Mechanical Jam,Rolling,Jennifer Phillips,₹674217
+2023-03-17 20:00:00,M23,A,43,Setup Change,Rolling,Andrea Velasquez,₹1729914
+2023-03-19 02:35:00,M26,C,44,Material Shortage,Casting,Benjamin Castro,₹513866
+2023-03-18 18:11:00,M06,C,10,Maintenance,Melting,John Joseph,10.84 tons
+2023-11-18 12:05:00,M25,C,90,Power Failure,Casting,Jennifer Phillips,₹2104587
+2023-04-11 07:44:00,M04,A,71,Power Failure,Rolling,Christopher Sanders,150.4 tons
+2023-09-06 13:00:00,M10,C,38,Maintenance,Melting,Abigail Meyer,69.54 tons
+2023-04-21 09:35:00,M25,C,45,Power Failure,Melting,Ashlee Thompson,59.34 tons
+2023-12-01 01:17:00,M28,C,51,Mechanical Jam,Rolling,Marcus Banks,104.06 tons
+2023-02-20 16:01:00,M03,B,5,Overheating,Finishing,Derek Berry,6.43 tons
+2023-01-28 00:15:00,M22,C,37,Maintenance,Rolling,Terry Parker,₹990571
+2023-08-10 14:25:00,M24,C,24,Overheating,Rolling,Kenneth Kent,₹825985
+2023-04-17 22:35:00,M23,B,14,Power Failure,Melting,Jordan Pruitt,₹486184
+2023-11-18 23:01:00,M23,B,36,Setup Change,Casting,Christian Gonzalez,₹1628603
+2023-03-03 08:54:00,M02,C,98,Overheating,Casting,Duane James,₹3099897
+2023-06-05 15:16:00,M03,C,64,Operator Error,Rolling,Derek Berry,145.96 tons
+2023-07-08 08:56:00,M08,B,27,Sensor Fault,Finishing,Kelly Klein,₹1178910
+2023-07-09 03:34:00,M21,C,62,Overheating,Melting,Kelly Klein,101.98 tons
